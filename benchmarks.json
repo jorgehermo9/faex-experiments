@@ -1,0 +1,4918 @@
+{
+  "compressed": {
+    "fifty": {
+      "original_size": 100000000,
+      "rrr_faex_15": [
+        {
+          "construction": [
+            0.421065166
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.194619334
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.398583458
+            ]
+          },
+          "size_in_bits": 198286144
+        },
+        {
+          "construction": [
+            0.402279084
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.700241459
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.941615417
+            ]
+          },
+          "size_in_bits": 154119488
+        },
+        {
+          "construction": [
+            0.3972275
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.738480959
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.6781958340000003
+            ]
+          },
+          "size_in_bits": 132036160
+        },
+        {
+          "construction": [
+            0.394035834
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.04534825
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.528558917
+            ]
+          },
+          "size_in_bits": 120994496
+        },
+        {
+          "construction": [
+            0.39201375
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.273956292
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.515008375
+            ]
+          },
+          "size_in_bits": 115473664
+        },
+        {
+          "construction": [
+            0.389208333
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              10.993685916
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.6512245
+            ]
+          },
+          "size_in_bits": 112713216
+        }
+      ],
+      "rrr_faex_31": [
+        {
+          "construction": [
+            0.387844166
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.891492042
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.214818
+            ]
+          },
+          "size_in_bits": 149207936
+        },
+        {
+          "construction": [
+            0.37979
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.495819167
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.960560916
+            ]
+          },
+          "size_in_bits": 127836928
+        },
+        {
+          "construction": [
+            0.372493
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.358186125
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.749015333
+            ]
+          },
+          "size_in_bits": 117151488
+        },
+        {
+          "construction": [
+            0.372110208
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.8205
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.663596334
+            ]
+          },
+          "size_in_bits": 111808768
+        },
+        {
+          "construction": [
+            0.370174208
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.971713917
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.62957375
+            ]
+          },
+          "size_in_bits": 109137472
+        },
+        {
+          "construction": [
+            0.3736065
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.698161416
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.830014375
+            ]
+          },
+          "size_in_bits": 107801728
+        }
+      ],
+      "rrr_faex_63": [
+        {
+          "construction": [
+            0.346950792
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.218919458
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.639030042
+            ]
+          },
+          "size_in_bits": 124960896
+        },
+        {
+          "construction": [
+            0.343597084
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              10.682608
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.413584125
+            ]
+          },
+          "size_in_bits": 114445056
+        },
+        {
+          "construction": [
+            0.342583417
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.061602875
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.334111666
+            ]
+          },
+          "size_in_bits": 109187136
+        },
+        {
+          "construction": [
+            0.341608875
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.478738542
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.276033708
+            ]
+          },
+          "size_in_bits": 106558208
+        },
+        {
+          "construction": [
+            0.339793375
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.775629333
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.23853475
+            ]
+          },
+          "size_in_bits": 105243712
+        },
+        {
+          "construction": [
+            0.34058675
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              15.589541208
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.432366083
+            ]
+          },
+          "size_in_bits": 104586432
+        }
+      ],
+      "rrr_sdsl_15": [
+        {
+          "construction": [
+            0.04039225
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.716431583
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.905233667
+            ]
+          },
+          "size_in_bits": 198277208
+        },
+        {
+          "construction": [
+            0.041828458
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.508728583
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.535787083
+            ]
+          },
+          "size_in_bits": 154110552
+        },
+        {
+          "construction": [
+            0.039828167
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.69518575
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.35583975
+            ]
+          },
+          "size_in_bits": 132027224
+        },
+        {
+          "construction": [
+            0.038226834
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.905750959
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.247964958
+            ]
+          },
+          "size_in_bits": 120985560
+        },
+        {
+          "construction": [
+            0.037251583
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.456885833
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.237733541
+            ]
+          },
+          "size_in_bits": 115464728
+        },
+        {
+          "construction": [
+            0.0363055
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.519318083
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.435779041
+            ]
+          },
+          "size_in_bits": 112704280
+        }
+      ],
+      "rrr_sdsl_31": [
+        {
+          "construction": [
+            0.359213958
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              13.760316333
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.229481166
+            ]
+          },
+          "size_in_bits": 150009240
+        },
+        {
+          "construction": [
+            0.353568334
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              13.619985417
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.970339083
+            ]
+          },
+          "size_in_bits": 128235032
+        },
+        {
+          "construction": [
+            0.35068
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              13.823161625
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.810438833
+            ]
+          },
+          "size_in_bits": 117347992
+        },
+        {
+          "construction": [
+            0.34981475
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              14.699131917
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.734026583
+            ]
+          },
+          "size_in_bits": 111904472
+        },
+        {
+          "construction": [
+            0.363060042
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              16.671307792
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.775875709
+            ]
+          },
+          "size_in_bits": 109182744
+        },
+        {
+          "construction": [
+            0.349684125
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              20.775138667
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.059502916
+            ]
+          },
+          "size_in_bits": 107821784
+        }
+      ],
+      "rrr_sdsl_63": [
+        {
+          "construction": [
+            0.324204333
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              21.138038292
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.73941375
+            ]
+          },
+          "size_in_bits": 125351640
+        },
+        {
+          "construction": [
+            0.321992042
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              21.090129083
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.559522916
+            ]
+          },
+          "size_in_bits": 114637400
+        },
+        {
+          "construction": [
+            0.319613417
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              21.401653875
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.412487292
+            ]
+          },
+          "size_in_bits": 109280280
+        },
+        {
+          "construction": [
+            0.318503959
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              22.29091675
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.38775025
+            ]
+          },
+          "size_in_bits": 106601752
+        },
+        {
+          "construction": [
+            0.320164291
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              24.358989833
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.459347083
+            ]
+          },
+          "size_in_bits": 105262424
+        },
+        {
+          "construction": [
+            0.319670833
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              28.491295375
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.758198833
+            ]
+          },
+          "size_in_bits": 104592728
+        }
+      ]
+    },
+    "five": {
+      "original_size": 100000000,
+      "rrr_faex_15": [
+        {
+          "construction": [
+            0.179949167
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.959085417
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.4047585
+            ]
+          },
+          "size_in_bits": 124957056
+        },
+        {
+          "construction": [
+            0.166678042
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.877087334
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.170821417
+            ]
+          },
+          "size_in_bits": 84957120
+        },
+        {
+          "construction": [
+            0.1611795
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.897651583
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.054000375
+            ]
+          },
+          "size_in_bits": 64957120
+        },
+        {
+          "construction": [
+            0.154397875
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.556788542
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.013658333
+            ]
+          },
+          "size_in_bits": 54957120
+        },
+        {
+          "construction": [
+            0.153307
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.940493833
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.026724
+            ]
+          },
+          "size_in_bits": 49957120
+        },
+        {
+          "construction": [
+            0.152794084
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.563125208
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.072413791
+            ]
+          },
+          "size_in_bits": 47457152
+        }
+      ],
+      "rrr_faex_31": [
+        {
+          "construction": [
+            0.129656458
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.487465875
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.211845125
+            ]
+          },
+          "size_in_bits": 76885632
+        },
+        {
+          "construction": [
+            0.121759459
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.602757584
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.110183583
+            ]
+          },
+          "size_in_bits": 57530752
+        },
+        {
+          "construction": [
+            0.118859333
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.975813167
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.047407625
+            ]
+          },
+          "size_in_bits": 47853376
+        },
+        {
+          "construction": [
+            0.11645075
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.583723166
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.001826084
+            ]
+          },
+          "size_in_bits": 43014592
+        },
+        {
+          "construction": [
+            0.117536792
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.774817834
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.010951542
+            ]
+          },
+          "size_in_bits": 40595328
+        },
+        {
+          "construction": [
+            0.115422125
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.528876416
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.098971125
+            ]
+          },
+          "size_in_bits": 39385600
+        }
+      ],
+      "rrr_faex_63": [
+        {
+          "construction": [
+            0.11158825
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.139836
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.386499125
+            ]
+          },
+          "size_in_bits": 53481088
+        },
+        {
+          "construction": [
+            0.109471083
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.373263625
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.30416125
+            ]
+          },
+          "size_in_bits": 43957312
+        },
+        {
+          "construction": [
+            0.105381666
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.688334708
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.271323083
+            ]
+          },
+          "size_in_bits": 39195328
+        },
+        {
+          "construction": [
+            0.104999958
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.200609209
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.242801042
+            ]
+          },
+          "size_in_bits": 36814400
+        },
+        {
+          "construction": [
+            0.10641375
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.513994666
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.248294834
+            ]
+          },
+          "size_in_bits": 35623936
+        },
+        {
+          "construction": [
+            0.104469
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.282611959
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.342652584
+            ]
+          },
+          "size_in_bits": 35028672
+        }
+      ],
+      "rrr_sdsl_15": [
+        {
+          "construction": [
+            0.073569292
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.244991792
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.302887084
+            ]
+          },
+          "size_in_bits": 124957784
+        },
+        {
+          "construction": [
+            0.071756417
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.801450709
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.125046584
+            ]
+          },
+          "size_in_bits": 84957848
+        },
+        {
+          "construction": [
+            0.066841042
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.82768925
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.04222025
+            ]
+          },
+          "size_in_bits": 64957848
+        },
+        {
+          "construction": [
+            0.064249
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.093404417
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.998439333
+            ]
+          },
+          "size_in_bits": 54957848
+        },
+        {
+          "construction": [
+            0.062541125
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.370773458
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.024660958
+            ]
+          },
+          "size_in_bits": 49957848
+        },
+        {
+          "construction": [
+            0.062163542
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.909134375
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.110905958
+            ]
+          },
+          "size_in_bits": 47457880
+        }
+      ],
+      "rrr_sdsl_31": [
+        {
+          "construction": [
+            0.104350042
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.947707542
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.194669292
+            ]
+          },
+          "size_in_bits": 77693272
+        },
+        {
+          "construction": [
+            0.099398458
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.007237042
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.104128666
+            ]
+          },
+          "size_in_bits": 57935192
+        },
+        {
+          "construction": [
+            0.09568825
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.48092875
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.060041042
+            ]
+          },
+          "size_in_bits": 48056216
+        },
+        {
+          "construction": [
+            0.093791541
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.51174175
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.027701416
+            ]
+          },
+          "size_in_bits": 43116632
+        },
+        {
+          "construction": [
+            0.106958875
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.517753625
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.073193208
+            ]
+          },
+          "size_in_bits": 40646936
+        },
+        {
+          "construction": [
+            0.093870042
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.721669625
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.227193667
+            ]
+          },
+          "size_in_bits": 39411992
+        }
+      ],
+      "rrr_sdsl_63": [
+        {
+          "construction": [
+            0.083711625
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.619682625
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.286127708
+            ]
+          },
+          "size_in_bits": 53874072
+        },
+        {
+          "construction": [
+            0.082077708
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.791551208
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.223190208
+            ]
+          },
+          "size_in_bits": 44151896
+        },
+        {
+          "construction": [
+            0.079667042
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.304177584
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.181377
+            ]
+          },
+          "size_in_bits": 39290712
+        },
+        {
+          "construction": [
+            0.078779125
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              10.310705583
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.176491625
+            ]
+          },
+          "size_in_bits": 36860184
+        },
+        {
+          "construction": [
+            0.078869291
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.380388834
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.214858958
+            ]
+          },
+          "size_in_bits": 35644888
+        },
+        {
+          "construction": [
+            0.078605708
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              16.6094405
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.371110667
+            ]
+          },
+          "size_in_bits": 35037208
+        }
+      ]
+    },
+    "ninety": {
+      "original_size": 100000000,
+      "rrr_faex_15": [
+        {
+          "construction": [
+            0.2255445
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.7632678330000005
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.771103667
+            ]
+          },
+          "size_in_bits": 146824640
+        },
+        {
+          "construction": [
+            0.210176208
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.209272167
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.331686125
+            ]
+          },
+          "size_in_bits": 103491392
+        },
+        {
+          "construction": [
+            0.201465917
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.833891833
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.076751416
+            ]
+          },
+          "size_in_bits": 81824640
+        },
+        {
+          "construction": [
+            0.196165208
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.373172125
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.999872834
+            ]
+          },
+          "size_in_bits": 70991360
+        },
+        {
+          "construction": [
+            0.194738833
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.713252917
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.996412792
+            ]
+          },
+          "size_in_bits": 65574656
+        },
+        {
+          "construction": [
+            0.19603325
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.259915042
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.105277291
+            ]
+          },
+          "size_in_bits": 62866368
+        }
+      ],
+      "rrr_faex_31": [
+        {
+          "construction": [
+            0.188957708
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.055530541
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.624221125
+            ]
+          },
+          "size_in_bits": 98075584
+        },
+        {
+          "construction": [
+            0.183993542
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.322358833
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.36654675
+            ]
+          },
+          "size_in_bits": 76704576
+        },
+        {
+          "construction": [
+            0.177729042
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.646435292
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.260011083
+            ]
+          },
+          "size_in_bits": 66019072
+        },
+        {
+          "construction": [
+            0.177613875
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.050964875
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.194060292
+            ]
+          },
+          "size_in_bits": 60676352
+        },
+        {
+          "construction": [
+            0.173909958
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.260232917
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.19246225
+            ]
+          },
+          "size_in_bits": 58004992
+        },
+        {
+          "construction": [
+            0.176591375
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.007551833
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.354297625
+            ]
+          },
+          "size_in_bits": 56669312
+        }
+      ],
+      "rrr_faex_63": [
+        {
+          "construction": [
+            0.168081375
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.593691084
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              3.043257333
+            ]
+          },
+          "size_in_bits": 73203392
+        },
+        {
+          "construction": [
+            0.164649625
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.530744
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.899659125
+            ]
+          },
+          "size_in_bits": 62687488
+        },
+        {
+          "construction": [
+            0.162903375
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.83399025
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.825281083
+            ]
+          },
+          "size_in_bits": 57429568
+        },
+        {
+          "construction": [
+            0.161622958
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              10.328264042
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.7663075
+            ]
+          },
+          "size_in_bits": 54800640
+        },
+        {
+          "construction": [
+            0.159666042
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.637311334
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.776572333
+            ]
+          },
+          "size_in_bits": 53486080
+        },
+        {
+          "construction": [
+            0.162148167
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              14.411219584
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.924755875
+            ]
+          },
+          "size_in_bits": 52828864
+        }
+      ],
+      "rrr_sdsl_15": [
+        {
+          "construction": [
+            0.060962708
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.351572625
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.485449709
+            ]
+          },
+          "size_in_bits": 146827352
+        },
+        {
+          "construction": [
+            0.060332083
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.04353775
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.145612792
+            ]
+          },
+          "size_in_bits": 103494104
+        },
+        {
+          "construction": [
+            0.054581291999999997
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.982715584
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.910927958
+            ]
+          },
+          "size_in_bits": 81827352
+        },
+        {
+          "construction": [
+            0.052560792
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.216386917
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.857829167
+            ]
+          },
+          "size_in_bits": 70994072
+        },
+        {
+          "construction": [
+            0.051334042
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.567931291
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.871265041
+            ]
+          },
+          "size_in_bits": 65577368
+        },
+        {
+          "construction": [
+            0.050982333
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.268766417
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.034812958
+            ]
+          },
+          "size_in_bits": 62869080
+        }
+      ],
+      "rrr_sdsl_31": [
+        {
+          "construction": [
+            0.180311667
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.289479
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.611536209
+            ]
+          },
+          "size_in_bits": 98881112
+        },
+        {
+          "construction": [
+            0.175690666
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.91651275
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.379729625
+            ]
+          },
+          "size_in_bits": 77106904
+        },
+        {
+          "construction": [
+            0.174297875
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.165763458
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.261025625
+            ]
+          },
+          "size_in_bits": 66219800
+        },
+        {
+          "construction": [
+            0.174100959
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.978773916
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.235572542
+            ]
+          },
+          "size_in_bits": 60776280
+        },
+        {
+          "construction": [
+            0.183261458
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.985631417
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.278678958
+            ]
+          },
+          "size_in_bits": 58054488
+        },
+        {
+          "construction": [
+            0.174965625
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              14.134331667
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.568177542
+            ]
+          },
+          "size_in_bits": 56693592
+        }
+      ],
+      "rrr_sdsl_63": [
+        {
+          "construction": [
+            0.152096125
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.507587125
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.944694833
+            ]
+          },
+          "size_in_bits": 73598488
+        },
+        {
+          "construction": [
+            0.15030125
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.568135041
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.817876291
+            ]
+          },
+          "size_in_bits": 62884184
+        },
+        {
+          "construction": [
+            0.14895425
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.89048875
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.71849075
+            ]
+          },
+          "size_in_bits": 57527064
+        },
+        {
+          "construction": [
+            0.149451875
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              10.747005458
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.669266667
+            ]
+          },
+          "size_in_bits": 54848536
+        },
+        {
+          "construction": [
+            0.149585791
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.817584958
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.757883958
+            ]
+          },
+          "size_in_bits": 53509144
+        },
+        {
+          "construction": [
+            0.149868333
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              17.039417292
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              3.034170458
+            ]
+          },
+          "size_in_bits": 52839512
+        }
+      ]
+    }
+  },
+  "sampling": {
+    "fifty": {
+      "bit_vector_il": [
+        {
+          "construction": [
+            0.0016465
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.689158916
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.174376583
+            ]
+          },
+          "size_in_bits": 25066048
+        },
+        {
+          "construction": [
+            0.001555416
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.820732583
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.159786125
+            ]
+          },
+          "size_in_bits": 12566016
+        },
+        {
+          "construction": [
+            0.001504125
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.066055417
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.210759583
+            ]
+          },
+          "size_in_bits": 6316032
+        },
+        {
+          "construction": [
+            0.001746209
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.556808541
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.245363375
+            ]
+          },
+          "size_in_bits": 3191040
+        },
+        {
+          "construction": [
+            0.001599375
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.371425125
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.259975875
+            ]
+          },
+          "size_in_bits": 1628544
+        },
+        {
+          "construction": [
+            0.001528875
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.866079834
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.353092042
+            ]
+          },
+          "size_in_bits": 847296
+        }
+      ],
+      "dense_sampling": [
+        {
+          "construction": [
+            0.004276834
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.543755167
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.881802584
+            ]
+          },
+          "size_in_bits": 37500096
+        },
+        {
+          "construction": [
+            0.003995625
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.548479666
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.7660812080000001
+            ]
+          },
+          "size_in_bits": 26562624
+        },
+        {
+          "construction": [
+            0.003674542
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.553994375
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.676804416
+            ]
+          },
+          "size_in_bits": 21875136
+        },
+        {
+          "construction": [
+            0.00358775
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.53852825
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.670563167
+            ]
+          },
+          "size_in_bits": 20312640
+        },
+        {
+          "construction": [
+            0.003629375
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.535432042
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.589440791
+            ]
+          },
+          "size_in_bits": 20312640
+        },
+        {
+          "construction": [
+            0.003623792
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.569508
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.651514709
+            ]
+          },
+          "size_in_bits": 21093952
+        }
+      ],
+      "original_size": 100000000,
+      "rank_support_v": [
+        {
+          "construction": [
+            0.001627666
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.440455792
+            ]
+          },
+          "size_in_bits": 25000128
+        }
+      ],
+      "rank_support_v5": [
+        {
+          "construction": [
+            0.001936666
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.083058
+            ]
+          },
+          "size_in_bits": 6250176
+        }
+      ],
+      "select_support_mcl": [
+        {
+          "construction": [
+            0.013682167
+          ],
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              0.486077791
+            ]
+          },
+          "size_in_bits": 23755216
+        }
+      ],
+      "sparse_sampling": [
+        {
+          "construction": [
+            0.001050208
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.921291958
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.565143666
+            ]
+          },
+          "size_in_bits": 25000064
+        },
+        {
+          "construction": [
+            0.001418792
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.110412542
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.416475625
+            ]
+          },
+          "size_in_bits": 12500096
+        },
+        {
+          "construction": [
+            0.000826792
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.420300541
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.3547657499999999
+            ]
+          },
+          "size_in_bits": 6250112
+        },
+        {
+          "construction": [
+            0.000560875
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.6334953749999999
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.29607425
+            ]
+          },
+          "size_in_bits": 3125120
+        },
+        {
+          "construction": [
+            0.000356167
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.010929375
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.293494875
+            ]
+          },
+          "size_in_bits": 1562624
+        },
+        {
+          "construction": [
+            0.000313917
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.973410875
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.408036459
+            ]
+          },
+          "size_in_bits": 781376
+        }
+      ]
+    },
+    "five": {
+      "bit_vector_il": [
+        {
+          "construction": [
+            0.002775042
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.691187958
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.592476125
+            ]
+          },
+          "size_in_bits": 25066048
+        },
+        {
+          "construction": [
+            0.001569375
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.825041
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.5803715
+            ]
+          },
+          "size_in_bits": 12566016
+        },
+        {
+          "construction": [
+            0.001502125
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.044842917
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.568457416
+            ]
+          },
+          "size_in_bits": 6316032
+        },
+        {
+          "construction": [
+            0.001752667
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.556877583
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.614268541
+            ]
+          },
+          "size_in_bits": 3191040
+        },
+        {
+          "construction": [
+            0.001613541
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.408671916
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.623168
+            ]
+          },
+          "size_in_bits": 1628544
+        },
+        {
+          "construction": [
+            0.001525875
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.850582166
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.671548667
+            ]
+          },
+          "size_in_bits": 847296
+        }
+      ],
+      "dense_sampling": [
+        {
+          "construction": [
+            0.004139208
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.538125459
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.912899083
+            ]
+          },
+          "size_in_bits": 37500096
+        },
+        {
+          "construction": [
+            0.004046542
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.555105
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.8770325
+            ]
+          },
+          "size_in_bits": 26562624
+        },
+        {
+          "construction": [
+            0.0035975
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.547713625
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.835984042
+            ]
+          },
+          "size_in_bits": 21875136
+        },
+        {
+          "construction": [
+            0.003638958
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.546811667
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.839870667
+            ]
+          },
+          "size_in_bits": 20312640
+        },
+        {
+          "construction": [
+            0.0034935
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.529455667
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.825596791
+            ]
+          },
+          "size_in_bits": 20312640
+        },
+        {
+          "construction": [
+            0.003357166
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.552069083
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.818928125
+            ]
+          },
+          "size_in_bits": 21093952
+        }
+      ],
+      "original_size": 100000000,
+      "rank_support_v": [
+        {
+          "construction": [
+            0.001657875
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.44210375
+            ]
+          },
+          "size_in_bits": 25000128
+        }
+      ],
+      "rank_support_v5": [
+        {
+          "construction": [
+            0.001949708
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.084199917
+            ]
+          },
+          "size_in_bits": 6250176
+        }
+      ],
+      "select_support_mcl": [
+        {
+          "construction": [
+            0.004463875
+          ],
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.333095208
+            ]
+          },
+          "size_in_bits": 23287176
+        }
+      ],
+      "sparse_sampling": [
+        {
+          "construction": [
+            0.001013
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.934090125
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.746773542
+            ]
+          },
+          "size_in_bits": 25000064
+        },
+        {
+          "construction": [
+            0.001416042
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.1085465
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.707081209
+            ]
+          },
+          "size_in_bits": 12500096
+        },
+        {
+          "construction": [
+            0.00080225
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.419794042
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.666457125
+            ]
+          },
+          "size_in_bits": 6250112
+        },
+        {
+          "construction": [
+            0.000530625
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.628358542
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.664171875
+            ]
+          },
+          "size_in_bits": 3125120
+        },
+        {
+          "construction": [
+            0.000388416
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.028320542
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.654497292
+            ]
+          },
+          "size_in_bits": 1562624
+        },
+        {
+          "construction": [
+            0.000340209
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.970996667
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.707644458
+            ]
+          },
+          "size_in_bits": 781376
+        }
+      ]
+    },
+    "ninety": {
+      "bit_vector_il": [
+        {
+          "construction": [
+            0.001650541
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.691420916
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.061408167
+            ]
+          },
+          "size_in_bits": 25066048
+        },
+        {
+          "construction": [
+            0.001551208
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.826714292
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.049466917
+            ]
+          },
+          "size_in_bits": 12566016
+        },
+        {
+          "construction": [
+            0.001502208
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.066940208
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.085366333
+            ]
+          },
+          "size_in_bits": 6316032
+        },
+        {
+          "construction": [
+            0.001744541
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.543235292
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.112212292
+            ]
+          },
+          "size_in_bits": 3191040
+        },
+        {
+          "construction": [
+            0.001636875
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.382497083
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.14065175
+            ]
+          },
+          "size_in_bits": 1628544
+        },
+        {
+          "construction": [
+            0.001528166
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.8263155
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.215626833
+            ]
+          },
+          "size_in_bits": 847296
+        }
+      ],
+      "dense_sampling": [
+        {
+          "construction": [
+            0.004366375
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.548901583
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.665910292
+            ]
+          },
+          "size_in_bits": 37500096
+        },
+        {
+          "construction": [
+            0.003852625
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.555542208
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.580292542
+            ]
+          },
+          "size_in_bits": 26562624
+        },
+        {
+          "construction": [
+            0.003727584
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.537834209
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.474373708
+            ]
+          },
+          "size_in_bits": 21875136
+        },
+        {
+          "construction": [
+            0.0035555
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.532348708
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.501863958
+            ]
+          },
+          "size_in_bits": 20312640
+        },
+        {
+          "construction": [
+            0.003625542
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.539576542
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.445059291
+            ]
+          },
+          "size_in_bits": 20312640
+        },
+        {
+          "construction": [
+            0.003433541
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.549959959
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.494637458
+            ]
+          },
+          "size_in_bits": 21093952
+        }
+      ],
+      "original_size": 100000000,
+      "rank_support_v": [
+        {
+          "construction": [
+            0.001651125
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.440673041
+            ]
+          },
+          "size_in_bits": 25000128
+        }
+      ],
+      "rank_support_v5": [
+        {
+          "construction": [
+            0.001877291
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.083846334
+            ]
+          },
+          "size_in_bits": 6250176
+        }
+      ],
+      "select_support_mcl": [
+        {
+          "construction": [
+            0.014484417
+          ],
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              0.442034417
+            ]
+          },
+          "size_in_bits": 23443528
+        }
+      ],
+      "sparse_sampling": [
+        {
+          "construction": [
+            0.001024792
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.924347625
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.3789268749999999
+            ]
+          },
+          "size_in_bits": 25000064
+        },
+        {
+          "construction": [
+            0.001488875
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.113367958
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.291358041
+            ]
+          },
+          "size_in_bits": 12500096
+        },
+        {
+          "construction": [
+            0.000869375
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.415453334
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.209559916
+            ]
+          },
+          "size_in_bits": 6250112
+        },
+        {
+          "construction": [
+            0.0005985
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.6449382080000001
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.159149833
+            ]
+          },
+          "size_in_bits": 3125120
+        },
+        {
+          "construction": [
+            0.000406834
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.032471958
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.176891916
+            ]
+          },
+          "size_in_bits": 1562624
+        },
+        {
+          "construction": [
+            0.000279458
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.952022375
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.259024208
+            ]
+          },
+          "size_in_bits": 781376
+        }
+      ]
+    }
+  },
+  "wt": {
+    "english": {
+      "bit_vector_il": [
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              7.450871459
+            ]
+          },
+          "construction": [
+            19.020101375
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.474991833
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              31.35996375
+            ]
+          },
+          "size_in_bits": 4194257120
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              7.580921042
+            ]
+          },
+          "construction": [
+            19.032297167
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.672897417
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              29.908067958
+            ]
+          },
+          "size_in_bits": 3774838048
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              8.339301334
+            ]
+          },
+          "construction": [
+            18.936633792
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.914667667
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              30.790298542
+            ]
+          },
+          "size_in_bits": 3565128480
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              10.826543167
+            ]
+          },
+          "construction": [
+            19.019155375
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              4.488848625
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              35.110727709
+            ]
+          },
+          "size_in_bits": 3460273696
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              14.154414625
+            ]
+          },
+          "construction": [
+            19.0126905
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              6.651745708
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              37.12373725
+            ]
+          },
+          "size_in_bits": 3407846304
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              21.669473209
+            ]
+          },
+          "construction": [
+            19.053630791
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              9.861183042
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              43.319604083
+            ]
+          },
+          "size_in_bits": 3381632608
+        }
+      ],
+      "dense_sampling": [
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              2.70606625
+            ]
+          },
+          "construction": [
+            11.614442459
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              2.290415791
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              10.494753042
+            ]
+          },
+          "size_in_bits": 2867403008
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              2.475720458
+            ]
+          },
+          "construction": [
+            11.609908875
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              2.320498375
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              9.632661292
+            ]
+          },
+          "size_in_bits": 2639340352
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              2.319399459
+            ]
+          },
+          "construction": [
+            11.658378166
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              2.20925625
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              8.834729124999999
+            ]
+          },
+          "size_in_bits": 2541599552
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              2.622172125
+            ]
+          },
+          "construction": [
+            11.628987833
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              2.229237833
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              8.839806334
+            ]
+          },
+          "size_in_bits": 2509019584
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              2.353972459
+            ]
+          },
+          "construction": [
+            11.644791417
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              2.428412834
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              8.527111625
+            ]
+          },
+          "size_in_bits": 2509019712
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              2.4484992500000002
+            ]
+          },
+          "construction": [
+            11.641766917
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              2.514137541
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              8.640367541
+            ]
+          },
+          "size_in_bits": 2525310336
+        }
+      ],
+      "original_size": 2097095440,
+      "rank_support_v": [
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              7.670761125
+            ]
+          },
+          "construction": [
+            20.954597125
+          ],
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.609578709
+            ]
+          },
+          "size_in_bits": 4974448008
+        }
+      ],
+      "rank_support_v5": [
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              7.703999334
+            ]
+          },
+          "construction": [
+            20.946613209
+          ],
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.822101333
+            ]
+          },
+          "size_in_bits": 4345319304
+        }
+      ],
+      "rrr_faex_63": [
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              12.969793917
+            ]
+          },
+          "construction": [
+            14.731194708
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              4.290149667
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              15.16039275
+            ]
+          },
+          "size_in_bits": 1417424896
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              13.270575917
+            ]
+          },
+          "construction": [
+            14.699010542
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              4.463311167
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              14.211488
+            ]
+          },
+          "size_in_bits": 1246039104
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              14.002302667
+            ]
+          },
+          "construction": [
+            14.589198709
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              4.7338155
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              13.683205749999999
+            ]
+          },
+          "size_in_bits": 1160346624
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              14.935555542
+            ]
+          },
+          "construction": [
+            14.654809792
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              5.430415875
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              13.792389541
+            ]
+          },
+          "size_in_bits": 1117499904
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              17.275565167
+            ]
+          },
+          "construction": [
+            14.611746958
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              6.431238166
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              13.734319750000001
+            ]
+          },
+          "size_in_bits": 1096076928
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              21.930140125
+            ]
+          },
+          "construction": [
+            14.668947875
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              8.389437166
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              14.317267084
+            ]
+          },
+          "size_in_bits": 1085364928
+        }
+      ],
+      "rrr_sdsl_63": [
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              35.627133833
+            ]
+          },
+          "construction": [
+            21.938984416
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              7.340640458
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              80.790081666
+            ]
+          },
+          "size_in_bits": 2000531384
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              36.107837792
+            ]
+          },
+          "construction": [
+            21.859881417
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              7.202555833
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              77.82013475
+            ]
+          },
+          "size_in_bits": 1594427128
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              37.397769167
+            ]
+          },
+          "construction": [
+            21.722029166
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              7.75945
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              76.927819958
+            ]
+          },
+          "size_in_bits": 1391375032
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              41.537686666
+            ]
+          },
+          "construction": [
+            21.801263583
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              9.0452145
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              80.692649625
+            ]
+          },
+          "size_in_bits": 1289849016
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              51.438684708
+            ]
+          },
+          "construction": [
+            21.70700775
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              12.413056375
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              87.504470375
+            ]
+          },
+          "size_in_bits": 1239085944
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              70.510543334
+            ]
+          },
+          "construction": [
+            21.774855125
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              17.115476375
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              103.7588965
+            ]
+          },
+          "size_in_bits": 1213704504
+        }
+      ],
+      "select_support_mcl": [
+        {
+          "construction": [
+            21.01741575
+          ],
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              13.642054792
+            ]
+          },
+          "size_in_bits": 4974448008
+        }
+      ],
+      "sparse_sampling": [
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              3.240935125
+            ]
+          },
+          "construction": [
+            11.583551625
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              2.7871546670000003
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              8.546288083
+            ]
+          },
+          "size_in_bits": 2606702912
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              3.8503672079999998
+            ]
+          },
+          "construction": [
+            11.5686525
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.203703084
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              8.232452667
+            ]
+          },
+          "size_in_bits": 2346059520
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              3.470412959
+            ]
+          },
+          "construction": [
+            11.540139083
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.03137125
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              6.807524625
+            ]
+          },
+          "size_in_bits": 2215737920
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              4.014081708
+            ]
+          },
+          "construction": [
+            11.555188417
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.540226333
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              6.909011208
+            ]
+          },
+          "size_in_bits": 2150577280
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              4.191142333
+            ]
+          },
+          "construction": [
+            11.564579583
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              3.850439959
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              6.776740333
+            ]
+          },
+          "size_in_bits": 2117997376
+        },
+        {
+          "access": {
+            "num_queries": 10485477,
+            "total_time": [
+              5.024547292
+            ]
+          },
+          "construction": [
+            11.579527917
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20970955,
+            "total_time": [
+              4.536199041
+            ]
+          },
+          "select": {
+            "num_queries": 10485477,
+            "total_time": [
+              7.10986025
+            ]
+          },
+          "size_in_bits": 2101707136
+        }
+      ]
+    },
+    "proteins": {
+      "bit_vector_il": [
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.621509542
+            ]
+          },
+          "construction": [
+            12.96034925
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              4.695032125
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              44.366862709
+            ]
+          },
+          "size_in_bits": 1835074272
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.7411475
+            ]
+          },
+          "construction": [
+            12.948468083
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              5.157992667
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              43.847950417
+            ]
+          },
+          "size_in_bits": 1651573472
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.902186
+            ]
+          },
+          "construction": [
+            12.964117458
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              5.952910459
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              44.019260208
+            ]
+          },
+          "size_in_bits": 1559823072
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              2.548941834
+            ]
+          },
+          "construction": [
+            13.01373925
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              7.029114916
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              44.56118925
+            ]
+          },
+          "size_in_bits": 1513947872
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              3.336675958
+            ]
+          },
+          "construction": [
+            12.954064792
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              8.847643375
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              44.0624265
+            ]
+          },
+          "size_in_bits": 1491010272
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              5.745942834
+            ]
+          },
+          "construction": [
+            13.012995292
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              13.689082541
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              44.148845
+            ]
+          },
+          "size_in_bits": 1479541472
+        }
+      ],
+      "dense_sampling": [
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              0.635786917
+            ]
+          },
+          "construction": [
+            6.619841625
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              1.735589417
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              28.361237916
+            ]
+          },
+          "size_in_bits": 1375118368
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              0.672971334
+            ]
+          },
+          "construction": [
+            6.641628542
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              1.66302
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              23.53860775
+            ]
+          },
+          "size_in_bits": 1265734496
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              0.655454
+            ]
+          },
+          "construction": [
+            6.629594041
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              1.481268583
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              18.439274667
+            ]
+          },
+          "size_in_bits": 1218855584
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              0.6643565
+            ]
+          },
+          "construction": [
+            6.635325708
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              1.469317458
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              17.149926041
+            ]
+          },
+          "size_in_bits": 1203229344
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              0.649120792
+            ]
+          },
+          "construction": [
+            6.63967
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              1.460499
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              16.4541525
+            ]
+          },
+          "size_in_bits": 1203229216
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              0.671536041
+            ]
+          },
+          "construction": [
+            6.62661
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              1.537178458
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              16.588882291
+            ]
+          },
+          "size_in_bits": 1211042464
+        }
+      ],
+      "original_size": 1048576000,
+      "rank_support_v": [
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.277221791
+            ]
+          },
+          "construction": [
+            13.560558875
+          ],
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              4.516738333
+            ]
+          },
+          "size_in_bits": 2193511672
+        }
+      ],
+      "rank_support_v5": [
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              2.017202584
+            ]
+          },
+          "construction": [
+            13.58103825
+          ],
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              5.659043042
+            ]
+          },
+          "size_in_bits": 1918260472
+        }
+      ],
+      "rrr_faex_63": [
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              8.997382625
+            ]
+          },
+          "construction": [
+            9.225751583
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              11.235144958
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              31.394910458
+            ]
+          },
+          "size_in_bits": 1104280480
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              9.26477425
+            ]
+          },
+          "construction": [
+            9.172749291
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              10.799067667
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              25.653004875
+            ]
+          },
+          "size_in_bits": 1003456736
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              9.608823167
+            ]
+          },
+          "construction": [
+            9.172259292
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              10.901342167
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              23.53720375
+            ]
+          },
+          "size_in_bits": 953045216
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              10.06812
+            ]
+          },
+          "construction": [
+            9.175962917
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              11.404656458
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              22.219479458
+            ]
+          },
+          "size_in_bits": 927839392
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              11.336239875
+            ]
+          },
+          "construction": [
+            9.161364541
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              12.688741
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              21.989196583000002
+            ]
+          },
+          "size_in_bits": 915236256
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              13.893538583
+            ]
+          },
+          "construction": [
+            9.166097375
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              15.504255042
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              22.50189525
+            ]
+          },
+          "size_in_bits": 908934816
+        }
+      ],
+      "rrr_sdsl_63": [
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              23.274885375
+            ]
+          },
+          "construction": [
+            15.385001
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              31.157484167
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              54.096758417
+            ]
+          },
+          "size_in_bits": 1299730936
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              24.132966542
+            ]
+          },
+          "construction": [
+            15.347513083
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              31.34276575
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              44.909858125
+            ]
+          },
+          "size_in_bits": 1122055544
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              24.875324375
+            ]
+          },
+          "construction": [
+            15.320591958
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              32.313202083
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              40.695382291
+            ]
+          },
+          "size_in_bits": 1033217784
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              27.163287917
+            ]
+          },
+          "construction": [
+            15.358246042
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              35.731772875
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              39.590004625
+            ]
+          },
+          "size_in_bits": 988798904
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              31.16459925
+            ]
+          },
+          "construction": [
+            15.34261425
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              42.573159583
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              41.556060042
+            ]
+          },
+          "size_in_bits": 966589496
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              40.648488
+            ]
+          },
+          "construction": [
+            15.325685167
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              59.089367917
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              47.860690709000004
+            ]
+          },
+          "size_in_bits": 955484856
+        }
+      ],
+      "select_support_mcl": [
+        {
+          "construction": [
+            13.657052625
+          ],
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              23.567798624999998
+            ]
+          },
+          "size_in_bits": 2193511672
+        }
+      ],
+      "sparse_sampling": [
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              0.981399209
+            ]
+          },
+          "construction": [
+            6.599450375
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              2.582003375
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              22.182722083
+            ]
+          },
+          "size_in_bits": 1250107360
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.073831417
+            ]
+          },
+          "construction": [
+            6.624658541
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              2.63493075
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              15.909094333
+            ]
+          },
+          "size_in_bits": 1125097184
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.286730041
+            ]
+          },
+          "construction": [
+            6.590806833
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              2.866949333
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              13.407491917
+            ]
+          },
+          "size_in_bits": 1062592032
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.401189333
+            ]
+          },
+          "construction": [
+            6.598717959
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              3.125307541
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              13.530578416
+            ]
+          },
+          "size_in_bits": 1031339424
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.5269616670000001
+            ]
+          },
+          "construction": [
+            6.595896708
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              3.398507459
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              13.467715875
+            ]
+          },
+          "size_in_bits": 1015713056
+        },
+        {
+          "access": {
+            "num_queries": 10485760,
+            "total_time": [
+              1.7697813340000002
+            ]
+          },
+          "construction": [
+            6.58485125
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 20971521,
+            "total_time": [
+              4.179621625
+            ]
+          },
+          "select": {
+            "num_queries": 10485760,
+            "total_time": [
+              14.097585209
+            ]
+          },
+          "size_in_bits": 1007900064
+        }
+      ]
+    }
+  }
+}
