@@ -5,578 +5,806 @@
       "rrr_faex_15": [
         {
           "construction": [
-            0.421065166
+            0.400194
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.194619334
+              8.527248
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.398583458
+              4.450818791
             ]
           },
-          "size_in_bits": 198286144
+          "size_in_bits": 198278080
         },
         {
           "construction": [
-            0.402279084
+            0.379660834
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.700241459
+              7.101045583
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.941615417
+              2.939387125
             ]
           },
-          "size_in_bits": 154119488
+          "size_in_bits": 154111424
         },
         {
           "construction": [
-            0.3972275
+            0.384786084
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.738480959
+              7.220077084
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.6781958340000003
+              5.180547542
             ]
           },
-          "size_in_bits": 132036160
+          "size_in_bits": 132028096
         },
         {
           "construction": [
-            0.394035834
+            0.388052125
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.04534825
+              8.886597166
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.528558917
+              3.097025
             ]
           },
-          "size_in_bits": 120994496
+          "size_in_bits": 120986432
         },
         {
           "construction": [
-            0.39201375
+            0.385980833
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.273956292
+              10.370046791
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.515008375
+              3.035650459
             ]
           },
-          "size_in_bits": 115473664
+          "size_in_bits": 115465600
         },
         {
           "construction": [
-            0.389208333
+            0.412541292
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              10.993685916
+              12.320034375
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.6512245
+              3.136622042
             ]
           },
-          "size_in_bits": 112713216
+          "size_in_bits": 112705152
         }
       ],
       "rrr_faex_31": [
         {
           "construction": [
-            0.387844166
+            0.391039583
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.891492042
+              9.747329167
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.214818
+              3.156777625
             ]
           },
-          "size_in_bits": 149207936
+          "size_in_bits": 149206144
         },
         {
           "construction": [
-            0.37979
+            0.361067708
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.495819167
+              9.193022166
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.960560916
+              3.010909125
             ]
           },
-          "size_in_bits": 127836928
+          "size_in_bits": 127835136
         },
         {
           "construction": [
-            0.372493
+            0.915812584
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.358186125
+              20.989180458
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.749015333
+              5.268833416
             ]
           },
-          "size_in_bits": 117151488
+          "size_in_bits": 117149696
         },
         {
           "construction": [
-            0.372110208
+            0.370036167
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.8205
+              11.2292765
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.663596334
+              3.124649167
             ]
           },
-          "size_in_bits": 111808768
+          "size_in_bits": 111806976
         },
         {
           "construction": [
-            0.370174208
+            0.368005625
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.971713917
+              12.281705208
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.62957375
+              3.153702583
             ]
           },
-          "size_in_bits": 109137472
+          "size_in_bits": 109135680
         },
         {
           "construction": [
-            0.3736065
+            0.360530291
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              12.698161416
+              20.798175666
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.830014375
+              4.533293875
             ]
           },
-          "size_in_bits": 107801728
+          "size_in_bits": 107799936
         }
       ],
       "rrr_faex_63": [
         {
           "construction": [
-            0.346950792
+            0.328820542
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              11.218919458
+              11.166843792
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.639030042
+              3.7700387920000002
             ]
           },
-          "size_in_bits": 124960896
+          "size_in_bits": 124958016
         },
         {
           "construction": [
-            0.343597084
+            0.324440709
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              10.682608
+              10.830127959
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.413584125
+              3.450030125
             ]
           },
-          "size_in_bits": 114445056
+          "size_in_bits": 114442176
         },
         {
           "construction": [
-            0.342583417
+            0.444373042
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              11.061602875
+              15.412017834
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.334111666
+              3.897357375
             ]
           },
-          "size_in_bits": 109187136
+          "size_in_bits": 109184256
         },
         {
           "construction": [
-            0.341608875
+            0.337149959
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              11.478738542
+              14.790327584
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.276033708
+              3.769643167
             ]
           },
-          "size_in_bits": 106558208
+          "size_in_bits": 106555328
         },
         {
           "construction": [
-            0.339793375
+            0.339507625
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              12.775629333
+              14.80578475
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.23853475
+              4.382611917
             ]
           },
-          "size_in_bits": 105243712
+          "size_in_bits": 105240832
         },
         {
           "construction": [
-            0.34058675
+            0.347209334
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              15.589541208
+              22.863021334
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.432366083
+              4.346994084
             ]
           },
-          "size_in_bits": 104586432
+          "size_in_bits": 104583552
         }
       ],
       "rrr_sdsl_15": [
         {
           "construction": [
-            0.04039225
+            0.038460833
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.716431583
+              3.664374708
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.905233667
+              2.844735958
             ]
           },
-          "size_in_bits": 198277208
+          "size_in_bits": 198275224
         },
         {
           "construction": [
-            0.041828458
+            0.039690625
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.508728583
+              3.426073291
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.535787083
+              2.389439333
             ]
           },
-          "size_in_bits": 154110552
+          "size_in_bits": 154108568
         },
         {
           "construction": [
-            0.039828167
+            0.038104458
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.69518575
+              3.426210125
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.35583975
+              2.186763583
             ]
           },
-          "size_in_bits": 132027224
+          "size_in_bits": 132025240
         },
         {
           "construction": [
-            0.038226834
+            0.035864042
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.905750959
+              3.660882125
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.247964958
+              2.102003917
             ]
           },
-          "size_in_bits": 120985560
+          "size_in_bits": 120983576
         },
         {
           "construction": [
-            0.037251583
+            0.035242458
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.456885833
+              4.109326291
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.237733541
+              2.075720875
             ]
           },
-          "size_in_bits": 115464728
+          "size_in_bits": 115462744
         },
         {
           "construction": [
-            0.0363055
+            0.034829583
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.519318083
+              5.372792541
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.435779041
+              2.323184667
             ]
           },
-          "size_in_bits": 112704280
-        }
-      ],
-      "rrr_sdsl_31": [
+          "size_in_bits": 112702296
+        },
         {
           "construction": [
-            0.359213958
+            0.038583875
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              13.760316333
+              3.7318225
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.229481166
+              2.822991042
+            ]
+          },
+          "size_in_bits": 198274200
+        },
+        {
+          "construction": [
+            0.039913625
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.398969917
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.440654583
+            ]
+          },
+          "size_in_bits": 154107544
+        },
+        {
+          "construction": [
+            0.037042666
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.539703958
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.241050917
+            ]
+          },
+          "size_in_bits": 132024216
+        },
+        {
+          "construction": [
+            0.036785167
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.735151541
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.112111292
+            ]
+          },
+          "size_in_bits": 120982552
+        },
+        {
+          "construction": [
+            0.035288208
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.256699958
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.100664
+            ]
+          },
+          "size_in_bits": 115461720
+        },
+        {
+          "construction": [
+            0.034490292
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.260247625
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.317951208
+            ]
+          },
+          "size_in_bits": 112701272
+        }
+      ],
+      "rrr_sdsl_31": [
+        {
+          "construction": [
+            0.338446833
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              13.139300834
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.071749667
+            ]
+          },
+          "size_in_bits": 150007512
+        },
+        {
+          "construction": [
+            0.333973583
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.791468417
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.782479417
+            ]
+          },
+          "size_in_bits": 128233304
+        },
+        {
+          "construction": [
+            0.330589583
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              12.782538042
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.603436334
+            ]
+          },
+          "size_in_bits": 117346264
+        },
+        {
+          "construction": [
+            0.329634
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              13.862933375
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.59602425
+            ]
+          },
+          "size_in_bits": 111902744
+        },
+        {
+          "construction": [
+            0.330126792
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              16.501432333
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.699716291
+            ]
+          },
+          "size_in_bits": 109181016
+        },
+        {
+          "construction": [
+            0.330089709
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              20.380660375
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              2.952142375
+            ]
+          },
+          "size_in_bits": 107820056
+        },
+        {
+          "construction": [
+            0.338947167
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              13.058534334
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.038990917
             ]
           },
           "size_in_bits": 150009240
         },
         {
           "construction": [
-            0.353568334
+            0.333299959
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              13.619985417
+              12.740481125
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.970339083
+              2.772398125
             ]
           },
           "size_in_bits": 128235032
         },
         {
           "construction": [
-            0.35068
+            0.330153959
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              13.823161625
+              12.953548833
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.810438833
+              2.624182959
             ]
           },
           "size_in_bits": 117347992
         },
         {
           "construction": [
-            0.34981475
+            0.329684416
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              14.699131917
+              13.695377833
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.734026583
+              2.5558235
             ]
           },
           "size_in_bits": 111904472
         },
         {
           "construction": [
-            0.363060042
+            0.329842375
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              16.671307792
+              15.557839792
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              2.775875709
+              2.610301417
             ]
           },
           "size_in_bits": 109182744
         },
         {
           "construction": [
-            0.349684125
+            0.330079583
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              20.775138667
+              19.419609667
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.059502916
+              2.855265333
             ]
           },
           "size_in_bits": 107821784
@@ -585,117 +813,231 @@
       "rrr_sdsl_63": [
         {
           "construction": [
-            0.324204333
+            0.305804167
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              21.138038292
+              20.828216625
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.73941375
+              3.627451
             ]
           },
-          "size_in_bits": 125351640
+          "size_in_bits": 125349784
         },
         {
           "construction": [
-            0.321992042
+            0.303092333
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              21.090129083
+              20.233734042
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.559522916
+              3.406144291
             ]
           },
-          "size_in_bits": 114637400
+          "size_in_bits": 114635544
         },
         {
           "construction": [
-            0.319613417
+            0.301789375
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              21.401653875
+              20.860159792
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.412487292
+              3.303827042
             ]
           },
-          "size_in_bits": 109280280
+          "size_in_bits": 109278424
         },
         {
           "construction": [
-            0.318503959
+            0.301011417
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              22.29091675
+              21.664724208
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.38775025
+              3.405982458
             ]
           },
-          "size_in_bits": 106601752
+          "size_in_bits": 106599896
         },
         {
           "construction": [
-            0.320164291
+            0.303818333
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              24.358989833
+              24.422390958
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.459347083
+              3.280963042
             ]
           },
-          "size_in_bits": 105262424
+          "size_in_bits": 105260568
         },
         {
           "construction": [
-            0.319670833
+            0.301652292
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              28.491295375
+              26.835917667
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              3.758198833
+              3.516205542
             ]
           },
-          "size_in_bits": 104592728
+          "size_in_bits": 104590872
+        },
+        {
+          "construction": [
+            0.3050525
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              19.854149625
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.489664833
+            ]
+          },
+          "size_in_bits": 125350680
+        },
+        {
+          "construction": [
+            0.302669875
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              19.760587459
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.319132083
+            ]
+          },
+          "size_in_bits": 114636440
+        },
+        {
+          "construction": [
+            0.30167775
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              19.988806458
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.189033291
+            ]
+          },
+          "size_in_bits": 109279320
+        },
+        {
+          "construction": [
+            0.30123875
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              20.997978417
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.289958333
+            ]
+          },
+          "size_in_bits": 106600792
+        },
+        {
+          "construction": [
+            0.300982542
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              22.741255958
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.210790583
+            ]
+          },
+          "size_in_bits": 105261464
+        },
+        {
+          "construction": [
+            0.3011875
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              26.699689667
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              3.558632917
+            ]
+          },
+          "size_in_bits": 104591768
         }
       ]
     },
@@ -704,697 +1046,1039 @@
       "rrr_faex_15": [
         {
           "construction": [
-            0.179949167
+            0.167780333
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.959085417
+              4.015231709
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.4047585
+              1.389272833
             ]
           },
-          "size_in_bits": 124957056
+          "size_in_bits": 124960896
         },
         {
           "construction": [
-            0.166678042
+            0.165218708
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.877087334
+              4.579337
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.170821417
+              1.508474917
             ]
           },
-          "size_in_bits": 84957120
+          "size_in_bits": 84960960
         },
         {
           "construction": [
-            0.1611795
+            0.15481375
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.897651583
+              4.223145167
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.054000375
+              1.090440708
             ]
           },
-          "size_in_bits": 64957120
+          "size_in_bits": 64960960
         },
         {
           "construction": [
-            0.154397875
+            0.14786
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.556788542
+              5.089503542
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.013658333
+              1.152007
             ]
           },
-          "size_in_bits": 54957120
+          "size_in_bits": 54960960
         },
         {
           "construction": [
-            0.153307
+            0.152474208
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.940493833
+              6.686654417
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.026724
+              1.137297292
             ]
           },
-          "size_in_bits": 49957120
+          "size_in_bits": 49960960
         },
         {
           "construction": [
-            0.152794084
+            0.144142834
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.563125208
+              8.668961833000001
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.072413791
+              1.20699325
             ]
           },
-          "size_in_bits": 47457152
+          "size_in_bits": 47460992
         }
       ],
       "rrr_faex_31": [
         {
           "construction": [
-            0.129656458
+            0.1220805
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.487465875
+              4.968110959
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.211845125
+              1.459795875
             ]
           },
-          "size_in_bits": 76885632
+          "size_in_bits": 76888896
         },
         {
           "construction": [
-            0.121759459
+            0.121964875
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.602757584
+              5.32039725
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.110183583
+              1.2736678750000001
             ]
           },
-          "size_in_bits": 57530752
+          "size_in_bits": 57534016
         },
         {
           "construction": [
-            0.118859333
+            0.118412833
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.975813167
+              5.437718
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.047407625
+              1.189967833
             ]
           },
-          "size_in_bits": 47853376
+          "size_in_bits": 47856640
         },
         {
           "construction": [
-            0.11645075
+            0.11308175
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.583723166
+              6.238507
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.001826084
+              1.132427459
             ]
           },
-          "size_in_bits": 43014592
+          "size_in_bits": 43017856
         },
         {
           "construction": [
-            0.117536792
+            0.112559542
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.774817834
+              6.907006125
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.010951542
+              1.004566083
             ]
           },
-          "size_in_bits": 40595328
+          "size_in_bits": 40598592
         },
         {
           "construction": [
-            0.115422125
+            0.113055666
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.528876416
+              10.283740417
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.098971125
+              1.226113292
             ]
           },
-          "size_in_bits": 39385600
+          "size_in_bits": 39388864
         }
       ],
       "rrr_faex_63": [
         {
           "construction": [
-            0.11158825
+            0.108184542
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.139836
+              8.485639042
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.386499125
+              1.628268
             ]
           },
-          "size_in_bits": 53481088
+          "size_in_bits": 53482816
         },
         {
           "construction": [
-            0.109471083
+            0.106585125
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.373263625
+              8.135813291
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.30416125
+              1.3790090830000001
             ]
           },
-          "size_in_bits": 43957312
+          "size_in_bits": 43959040
         },
         {
           "construction": [
-            0.105381666
+            0.106531208
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.688334708
+              7.655568167
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.271323083
+              1.225219083
             ]
           },
-          "size_in_bits": 39195328
+          "size_in_bits": 39197056
         },
         {
           "construction": [
-            0.104999958
+            0.10304875
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.200609209
+              8.974529917
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.242801042
+              1.317512416
             ]
           },
-          "size_in_bits": 36814400
+          "size_in_bits": 36816128
         },
         {
           "construction": [
-            0.10641375
+            0.103418042
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.513994666
+              10.075425041
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.248294834
+              1.201574375
             ]
           },
-          "size_in_bits": 35623936
+          "size_in_bits": 35625664
         },
         {
           "construction": [
-            0.104469
+            0.104928375
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              12.282611959
+              13.100220584
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.342652584
+              1.454077208
             ]
           },
-          "size_in_bits": 35028672
+          "size_in_bits": 35030400
         }
       ],
       "rrr_sdsl_15": [
         {
           "construction": [
-            0.073569292
+            0.069714875
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.244991792
+              3.115254458
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.302887084
+              1.225791875
             ]
           },
-          "size_in_bits": 124957784
+          "size_in_bits": 124956888
         },
         {
           "construction": [
-            0.071756417
+            0.068557625
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.801450709
+              2.660094792
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.125046584
+              1.0674171669999999
             ]
           },
-          "size_in_bits": 84957848
+          "size_in_bits": 84956952
         },
         {
           "construction": [
-            0.066841042
+            0.062216417
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.82768925
+              2.659691042
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.04222025
+              0.983328833
             ]
           },
-          "size_in_bits": 64957848
+          "size_in_bits": 64956952
         },
         {
           "construction": [
-            0.064249
+            0.060398208
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.093404417
+              2.907600625
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.998439333
+              0.935112375
             ]
           },
-          "size_in_bits": 54957848
+          "size_in_bits": 54956952
         },
         {
           "construction": [
-            0.062541125
+            0.059674875
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.370773458
+              3.156777666
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.024660958
+              0.963111
             ]
           },
-          "size_in_bits": 49957848
+          "size_in_bits": 49956952
         },
         {
           "construction": [
-            0.062163542
+            0.058616
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.909134375
+              3.658676792
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.110905958
+              1.037525833
             ]
           },
-          "size_in_bits": 47457880
+          "size_in_bits": 47456984
+        },
+        {
+          "construction": [
+            0.06984075
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.032127667
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.237609542
+            ]
+          },
+          "size_in_bits": 124961816
+        },
+        {
+          "construction": [
+            0.068223584
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.599085292
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.047004834
+            ]
+          },
+          "size_in_bits": 84961880
+        },
+        {
+          "construction": [
+            0.062111875
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.647699792
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.971474667
+            ]
+          },
+          "size_in_bits": 64961880
+        },
+        {
+          "construction": [
+            0.06055275
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.924335708
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.936818333
+            ]
+          },
+          "size_in_bits": 54961880
+        },
+        {
+          "construction": [
+            0.059248
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.169710958
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.970803333
+            ]
+          },
+          "size_in_bits": 49961880
+        },
+        {
+          "construction": [
+            0.058683917
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.671748542
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.033026958
+            ]
+          },
+          "size_in_bits": 47461912
         }
       ],
       "rrr_sdsl_31": [
         {
           "construction": [
-            0.104350042
+            0.097740459
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.947707542
+              4.70133725
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.194669292
+              1.109053875
             ]
           },
-          "size_in_bits": 77693272
+          "size_in_bits": 77691672
         },
         {
           "construction": [
-            0.099398458
+            0.09431675
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.007237042
+              4.6927915
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.104128666
+              1.04294975
             ]
           },
-          "size_in_bits": 57935192
+          "size_in_bits": 57933592
         },
         {
           "construction": [
-            0.09568825
+            0.090450875
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.48092875
+              5.124330084
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.060041042
+              0.99247175
             ]
           },
-          "size_in_bits": 48056216
+          "size_in_bits": 48054616
         },
         {
           "construction": [
-            0.093791541
+            0.088958709
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.51174175
+              6.113511875
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.027701416
+              0.966168541
             ]
           },
-          "size_in_bits": 43116632
+          "size_in_bits": 43115032
         },
         {
           "construction": [
-            0.106958875
+            0.087947708
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.517753625
+              7.973859958
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.073193208
+              1.006214708
             ]
           },
-          "size_in_bits": 40646936
+          "size_in_bits": 40645336
         },
         {
           "construction": [
-            0.093870042
+            0.088890041
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              12.721669625
+              11.944249167
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.227193667
+              1.154701959
             ]
           },
-          "size_in_bits": 39411992
+          "size_in_bits": 39410392
+        },
+        {
+          "construction": [
+            0.098546042
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.600514083
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.120764708
+            ]
+          },
+          "size_in_bits": 77695704
+        },
+        {
+          "construction": [
+            0.093419791
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.688914916
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.033357333
+            ]
+          },
+          "size_in_bits": 57937624
+        },
+        {
+          "construction": [
+            0.09003325
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              5.14599975
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.993362542
+            ]
+          },
+          "size_in_bits": 48058648
+        },
+        {
+          "construction": [
+            0.088797167
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.08174775
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.966024292
+            ]
+          },
+          "size_in_bits": 43119064
+        },
+        {
+          "construction": [
+            0.08861175
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.965878083
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.006901083
+            ]
+          },
+          "size_in_bits": 40649368
+        },
+        {
+          "construction": [
+            0.088391833
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.974508417
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.152292583
+            ]
+          },
+          "size_in_bits": 39414424
         }
       ],
       "rrr_sdsl_63": [
         {
           "construction": [
-            0.083711625
+            0.079071541
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.619682625
+              8.079466875
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.286127708
+              1.226898917
             ]
           },
-          "size_in_bits": 53874072
+          "size_in_bits": 53873112
         },
         {
           "construction": [
-            0.082077708
+            0.076812208
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.791551208
+              8.227204667
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.223190208
+              1.146486709
             ]
           },
-          "size_in_bits": 44151896
+          "size_in_bits": 44150936
         },
         {
           "construction": [
-            0.079667042
+            0.075411458
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.304177584
+              8.748122125
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.181377
+              1.109725375
             ]
           },
-          "size_in_bits": 39290712
+          "size_in_bits": 39289752
         },
         {
           "construction": [
-            0.078779125
+            0.074640375
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              10.310705583
+              9.671223625
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.176491625
+              1.101047833
             ]
           },
-          "size_in_bits": 36860184
+          "size_in_bits": 36859224
         },
         {
           "construction": [
-            0.078869291
+            0.073987958
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              12.380388834
+              11.607497209
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.214858958
+              1.139099417
             ]
           },
-          "size_in_bits": 35644888
+          "size_in_bits": 35643928
         },
         {
           "construction": [
-            0.078605708
+            0.074358083
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              16.6094405
+              15.570149833
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              1.371110667
+              1.28739975
             ]
           },
-          "size_in_bits": 35037208
+          "size_in_bits": 35036248
+        },
+        {
+          "construction": [
+            0.078920917
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.999230209
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.197785458
+            ]
+          },
+          "size_in_bits": 53873944
+        },
+        {
+          "construction": [
+            0.076227375
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.293785959
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.144487708
+            ]
+          },
+          "size_in_bits": 44151768
+        },
+        {
+          "construction": [
+            0.0753025
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.727739666
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.115859084
+            ]
+          },
+          "size_in_bits": 39290584
+        },
+        {
+          "construction": [
+            0.0744215
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.652347958
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.101038083
+            ]
+          },
+          "size_in_bits": 36860056
+        },
+        {
+          "construction": [
+            0.074463916
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.605498917
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.138292
+            ]
+          },
+          "size_in_bits": 35644760
+        },
+        {
+          "construction": [
+            0.073900667
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              15.597815834
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              1.287806542
+            ]
+          },
+          "size_in_bits": 35037080
         }
       ]
     },
@@ -1403,697 +2087,1039 @@
       "rrr_faex_15": [
         {
           "construction": [
-            0.2255445
+            0.217975375
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.7632678330000005
+              6.218389125
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.771103667
+              3.025828333
             ]
           },
-          "size_in_bits": 146824640
+          "size_in_bits": 146825344
         },
         {
           "construction": [
-            0.210176208
+            0.196963833
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.209272167
+              5.027724875
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.331686125
+              2.261832792
             ]
           },
-          "size_in_bits": 103491392
+          "size_in_bits": 103492096
         },
         {
           "construction": [
-            0.201465917
+            0.188489625
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.833891833
+              4.542095125
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.076751416
+              1.9167245830000001
             ]
           },
-          "size_in_bits": 81824640
+          "size_in_bits": 81825344
         },
         {
           "construction": [
-            0.196165208
+            0.186283083
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              5.373172125
+              4.984148417
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.999872834
+              1.872244333
             ]
           },
-          "size_in_bits": 70991360
+          "size_in_bits": 70992064
         },
         {
           "construction": [
-            0.194738833
+            0.183581583
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.713252917
+              6.181505917
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.996412792
+              1.835520833
             ]
           },
-          "size_in_bits": 65574656
+          "size_in_bits": 65575360
         },
         {
           "construction": [
-            0.19603325
+            0.1828055
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.259915042
+              8.795741208
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.105277291
+              1.947860916
             ]
           },
-          "size_in_bits": 62866368
+          "size_in_bits": 62867072
         }
       ],
       "rrr_faex_31": [
         {
           "construction": [
-            0.188957708
+            0.185082292
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.055530541
+              7.832927041
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.624221125
+              2.8393747080000002
             ]
           },
-          "size_in_bits": 98075584
+          "size_in_bits": 98076544
         },
         {
           "construction": [
-            0.183993542
+            0.171776833
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.322358833
+              6.100902042
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.36654675
+              2.222434583
             ]
           },
-          "size_in_bits": 76704576
+          "size_in_bits": 76705536
         },
         {
           "construction": [
-            0.177729042
+            0.166915417
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.646435292
+              6.0513515
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.260011083
+              2.089472042
             ]
           },
-          "size_in_bits": 66019072
+          "size_in_bits": 66020032
         },
         {
           "construction": [
-            0.177613875
+            0.165128959
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.050964875
+              6.6068405420000005
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.194060292
+              2.076062917
             ]
           },
-          "size_in_bits": 60676352
+          "size_in_bits": 60677312
         },
         {
           "construction": [
-            0.173909958
+            0.164860834
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              8.260232917
+              7.67411875
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.19246225
+              2.034811125
             ]
           },
-          "size_in_bits": 58004992
+          "size_in_bits": 58005952
         },
         {
           "construction": [
-            0.176591375
+            0.164061084
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              11.007551833
+              10.209168584
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.354297625
+              2.170808125
             ]
           },
-          "size_in_bits": 56669312
+          "size_in_bits": 56670272
         }
       ],
       "rrr_faex_63": [
         {
           "construction": [
-            0.168081375
+            0.162591333
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.593691084
+              10.127188584
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              3.043257333
+              2.8407945
             ]
           },
-          "size_in_bits": 73203392
+          "size_in_bits": 73208064
         },
         {
           "construction": [
-            0.164649625
+            0.153217542
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.530744
+              8.891477834
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.899659125
+              2.733016417
             ]
           },
-          "size_in_bits": 62687488
+          "size_in_bits": 62692160
         },
         {
           "construction": [
-            0.162903375
+            0.151767041
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.83399025
+              9.127478083
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.825281083
+              2.616112
             ]
           },
-          "size_in_bits": 57429568
+          "size_in_bits": 57434240
         },
         {
           "construction": [
-            0.161622958
+            0.149824583
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              10.328264042
+              9.570588291
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.7663075
+              2.5635411660000003
             ]
           },
-          "size_in_bits": 54800640
+          "size_in_bits": 54805312
         },
         {
           "construction": [
-            0.159666042
+            0.149613875
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              11.637311334
+              10.843435792
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.776572333
+              2.5896497910000003
             ]
           },
-          "size_in_bits": 53486080
+          "size_in_bits": 53490752
         },
         {
           "construction": [
-            0.162148167
+            0.149721667
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              14.411219584
+              13.415994958
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.924755875
+              2.732541708
             ]
           },
-          "size_in_bits": 52828864
+          "size_in_bits": 52833536
         }
       ],
       "rrr_sdsl_15": [
         {
           "construction": [
-            0.060962708
+            0.057580292
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.351572625
+              3.18780875
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.485449709
+              2.39183675
             ]
           },
-          "size_in_bits": 146827352
+          "size_in_bits": 146827096
         },
         {
           "construction": [
-            0.060332083
+            0.057736042
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.04353775
+              2.857270333
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.145612792
+              1.990559833
             ]
           },
-          "size_in_bits": 103494104
+          "size_in_bits": 103493848
         },
         {
           "construction": [
-            0.054581291999999997
+            0.051668166
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.982715584
+              2.810793125
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.910927958
+              1.7951465
             ]
           },
-          "size_in_bits": 81827352
+          "size_in_bits": 81827096
         },
         {
           "construction": [
-            0.052560792
+            0.04947725
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.216386917
+              3.019274833
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.857829167
+              1.73277775
             ]
           },
-          "size_in_bits": 70994072
+          "size_in_bits": 70993816
         },
         {
           "construction": [
-            0.051334042
+            0.04868225
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.567931291
+              3.387144166
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.871265041
+              1.752512209
             ]
           },
-          "size_in_bits": 65577368
+          "size_in_bits": 65577112
         },
         {
           "construction": [
-            0.050982333
+            0.048170125
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              4.268766417
+              3.977684875
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.034812958
+              1.913838792
             ]
           },
-          "size_in_bits": 62869080
+          "size_in_bits": 62868824
+        },
+        {
+          "construction": [
+            0.057658
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.159515041
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.354392875
+            ]
+          },
+          "size_in_bits": 146824408
+        },
+        {
+          "construction": [
+            0.057117083
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.844357708
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.974077125
+            ]
+          },
+          "size_in_bits": 103491160
+        },
+        {
+          "construction": [
+            0.051346375
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.786092209
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.777341333
+            ]
+          },
+          "size_in_bits": 81824408
+        },
+        {
+          "construction": [
+            0.0501525
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.028200583
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.736742541
+            ]
+          },
+          "size_in_bits": 70991128
+        },
+        {
+          "construction": [
+            0.048417917
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.368263791
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.754479375
+            ]
+          },
+          "size_in_bits": 65574424
+        },
+        {
+          "construction": [
+            0.048169292
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              4.074087834
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.91361975
+            ]
+          },
+          "size_in_bits": 62866136
         }
       ],
       "rrr_sdsl_31": [
         {
           "construction": [
-            0.180311667
+            0.169650833
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.289479
+              6.713828
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.611536209
+              2.428170291
             ]
           },
-          "size_in_bits": 98881112
+          "size_in_bits": 98879832
         },
         {
           "construction": [
-            0.175690666
+            0.165400334
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              6.91651275
+              6.411905083
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.379729625
+              2.224129708
             ]
           },
-          "size_in_bits": 77106904
+          "size_in_bits": 77105624
         },
         {
           "construction": [
-            0.174297875
+            0.164334625
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.165763458
+              6.663403291
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.261025625
+              2.114944291
             ]
           },
-          "size_in_bits": 66219800
+          "size_in_bits": 66218520
         },
         {
           "construction": [
-            0.174100959
+            0.164015458
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              7.978773916
+              7.4943685
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.235572542
+              2.094652166
             ]
           },
-          "size_in_bits": 60776280
+          "size_in_bits": 60775000
         },
         {
           "construction": [
-            0.183261458
+            0.165904542
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.985631417
+              9.316857917
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.278678958
+              2.119236834
             ]
           },
-          "size_in_bits": 58054488
+          "size_in_bits": 58053208
         },
         {
           "construction": [
-            0.174965625
+            0.165006292
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              14.134331667
+              13.260817
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.568177542
+              2.3964665
             ]
           },
-          "size_in_bits": 56693592
+          "size_in_bits": 56692312
+        },
+        {
+          "construction": [
+            0.168699125
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.732898833
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.422170166
+            ]
+          },
+          "size_in_bits": 98878744
+        },
+        {
+          "construction": [
+            0.166090833
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.350214042
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.198524875
+            ]
+          },
+          "size_in_bits": 77104536
+        },
+        {
+          "construction": [
+            0.163331917
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              6.640462167
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.101812958
+            ]
+          },
+          "size_in_bits": 66217432
+        },
+        {
+          "construction": [
+            0.164726834
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              7.425179375
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.09008375
+            ]
+          },
+          "size_in_bits": 60773912
+        },
+        {
+          "construction": [
+            0.165172542
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.252796083
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.113812709
+            ]
+          },
+          "size_in_bits": 58052120
+        },
+        {
+          "construction": [
+            0.165317291
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              13.163393167
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.37452225
+            ]
+          },
+          "size_in_bits": 56691224
         }
       ],
       "rrr_sdsl_63": [
         {
           "construction": [
-            0.152096125
+            0.144208417
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.507587125
+              8.858981084
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.944694833
+              2.724556709
             ]
           },
-          "size_in_bits": 73598488
+          "size_in_bits": 73598552
         },
         {
           "construction": [
-            0.15030125
+            0.141596708
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.568135041
+              8.833590791
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.817876291
+              2.616170333
             ]
           },
-          "size_in_bits": 62884184
+          "size_in_bits": 62884248
         },
         {
           "construction": [
-            0.14895425
+            0.140872417
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              9.89048875
+              9.199398458
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.71849075
+              2.552187333
             ]
           },
-          "size_in_bits": 57527064
+          "size_in_bits": 57527128
         },
         {
           "construction": [
-            0.149451875
+            0.141488208
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              10.747005458
+              10.026443334
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.669266667
+              2.534785459
             ]
           },
-          "size_in_bits": 54848536
+          "size_in_bits": 54848600
         },
         {
           "construction": [
-            0.149585791
+            0.141587125
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              12.817584958
+              12.051799666
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              2.757883958
+              2.56764525
             ]
           },
-          "size_in_bits": 53509144
+          "size_in_bits": 53509208
         },
         {
           "construction": [
-            0.149868333
+            0.141436833
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              17.039417292
+              15.87338675
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              3.034170458
+              2.839862709
             ]
           },
-          "size_in_bits": 52839512
+          "size_in_bits": 52839576
+        },
+        {
+          "construction": [
+            0.143282333
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.844513417
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.717228791
+            ]
+          },
+          "size_in_bits": 73597080
+        },
+        {
+          "construction": [
+            0.141647
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              8.839170416
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.609792167
+            ]
+          },
+          "size_in_bits": 62882776
+        },
+        {
+          "construction": [
+            0.140398208
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              9.180723833
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.522021791
+            ]
+          },
+          "size_in_bits": 57525656
+        },
+        {
+          "construction": [
+            0.140736583
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              10.249806209
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.498671875
+            ]
+          },
+          "size_in_bits": 54847128
+        },
+        {
+          "construction": [
+            0.141099125
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              11.961776916
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.58260475
+            ]
+          },
+          "size_in_bits": 53507736
+        },
+        {
+          "construction": [
+            0.141282875
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              15.928589042
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              2.83097875
+            ]
+          },
+          "size_in_bits": 52838104
         }
       ]
     }
@@ -2103,114 +3129,228 @@
       "bit_vector_il": [
         {
           "construction": [
-            0.0016465
+            0.001760833
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.689158916
+              0.5988795
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.174376583
+              1.13283525
             ]
           },
           "size_in_bits": 25066048
         },
         {
           "construction": [
-            0.001555416
+            0.001513792
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.820732583
+              0.754335
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.159786125
+              1.098258916
             ]
           },
           "size_in_bits": 12566016
         },
         {
           "construction": [
-            0.001504125
+            0.00154225
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.066055417
+              1.013118875
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.210759583
+              1.126930792
             ]
           },
           "size_in_bits": 6316032
         },
         {
           "construction": [
-            0.001746209
+            0.001909417
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.556808541
+              1.488453875
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.245363375
+              1.153138417
             ]
           },
           "size_in_bits": 3191040
         },
         {
           "construction": [
-            0.001599375
+            0.001678458
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.371425125
+              2.255108041
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.259975875
+              1.185216416
             ]
           },
           "size_in_bits": 1628544
         },
         {
           "construction": [
-            0.001528875
+            0.00147575
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.866079834
+              3.578158292
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.353092042
+              1.260547834
+            ]
+          },
+          "size_in_bits": 847296
+        },
+        {
+          "construction": [
+            0.001707084
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.595136375
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.121116834
+            ]
+          },
+          "size_in_bits": 25066048
+        },
+        {
+          "construction": [
+            0.001466084
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.76175275
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.090542208
+            ]
+          },
+          "size_in_bits": 12566016
+        },
+        {
+          "construction": [
+            0.001498584
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.009996959
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.127838667
+            ]
+          },
+          "size_in_bits": 6316032
+        },
+        {
+          "construction": [
+            0.001673667
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.46976175
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.150917542
+            ]
+          },
+          "size_in_bits": 3191040
+        },
+        {
+          "construction": [
+            0.001524333
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.250245333
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.186497875
+            ]
+          },
+          "size_in_bits": 1628544
+        },
+        {
+          "construction": [
+            0.001472167
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.572278291
+            ]
+          },
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              1.265245
             ]
           },
           "size_in_bits": 847296
@@ -2219,114 +3359,114 @@
       "dense_sampling": [
         {
           "construction": [
-            0.004276834
+            0.004557875
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.543755167
+              0.746211208
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.881802584
+              2.766608041
             ]
           },
           "size_in_bits": 37500096
         },
         {
           "construction": [
-            0.003995625
+            0.00392025
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.548479666
+              0.679528542
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.7660812080000001
+              1.7296228340000002
             ]
           },
           "size_in_bits": 26562624
         },
         {
           "construction": [
-            0.003674542
+            0.003730084
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.553994375
+              0.54315275
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.676804416
+              1.651393208
             ]
           },
           "size_in_bits": 21875136
         },
         {
           "construction": [
-            0.00358775
+            0.003507542
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.53852825
+              0.54366225
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.670563167
+              1.658018417
             ]
           },
           "size_in_bits": 20312640
         },
         {
           "construction": [
-            0.003629375
+            0.00340725
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.535432042
+              0.530241875
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.589440791
+              1.627326167
             ]
           },
           "size_in_bits": 20312640
         },
         {
           "construction": [
-            0.003623792
+            0.003429583
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.569508
+              0.543240041
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.651514709
+              1.6623795829999999
             ]
           },
           "size_in_bits": 21093952
@@ -2336,12 +3476,24 @@
       "rank_support_v": [
         {
           "construction": [
-            0.001627666
+            0.001638709
           ],
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.440455792
+              0.43318525
+            ]
+          },
+          "size_in_bits": 25000128
+        },
+        {
+          "construction": [
+            0.001600292
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.429988292
             ]
           },
           "size_in_bits": 25000128
@@ -2350,12 +3502,24 @@
       "rank_support_v5": [
         {
           "construction": [
-            0.001936666
+            0.001926125
           ],
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.083058
+              1.033574042
+            ]
+          },
+          "size_in_bits": 6250176
+        },
+        {
+          "construction": [
+            0.001917375
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.033169959
             ]
           },
           "size_in_bits": 6250176
@@ -2364,128 +3528,140 @@
       "select_support_mcl": [
         {
           "construction": [
-            0.013682167
+            0.013019
           ],
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              0.486077791
+              0.466766459
             ]
           },
-          "size_in_bits": 23755216
+          "size_in_bits": 23755280
+        },
+        {
+          "construction": [
+            0.012966542
+          ],
+          "select": {
+            "num_queries": 10000000,
+            "total_time": [
+              0.467330833
+            ]
+          },
+          "size_in_bits": 23755728
         }
       ],
       "sparse_sampling": [
         {
           "construction": [
-            0.001050208
+            0.001114208
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.921291958
+              1.143209792
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.565143666
+              1.823351875
             ]
           },
           "size_in_bits": 25000064
         },
         {
           "construction": [
-            0.001418792
+            0.001429875
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.110412542
+              1.06046675
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.416475625
+              1.376513917
             ]
           },
           "size_in_bits": 12500096
         },
         {
           "construction": [
-            0.000826792
+            0.000827625
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.420300541
+              1.346207458
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.3547657499999999
+              1.3599451249999999
             ]
           },
           "size_in_bits": 6250112
         },
         {
           "construction": [
-            0.000560875
+            0.000607333
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.6334953749999999
+              1.586001833
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.29607425
+              1.227071958
             ]
           },
           "size_in_bits": 3125120
         },
         {
           "construction": [
-            0.000356167
+            0.000404166
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.010929375
+              1.9224014999999999
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.293494875
+              1.227249458
             ]
           },
           "size_in_bits": 1562624
         },
         {
           "construction": [
-            0.000313917
+            0.000292375
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.973410875
+              2.850387208
             ]
           },
           "select": {
             "num_queries": 10000000,
             "total_time": [
-              1.408036459
+              1.345125583
             ]
           },
           "size_in_bits": 781376
@@ -2496,114 +3672,342 @@
       "bit_vector_il": [
         {
           "construction": [
-            0.002775042
+            0.003031958
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.691187958
+              0.605033334
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.592476125
+              0.571485541
             ]
           },
           "size_in_bits": 25066048
         },
         {
           "construction": [
-            0.001569375
+            0.00214275
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.825041
+              0.760441042
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.5803715
+              0.549822625
             ]
           },
           "size_in_bits": 12566016
         },
         {
           "construction": [
-            0.001502125
+            0.001511875
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.044842917
+              1.017175208
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.568457416
+              0.564457666
             ]
           },
           "size_in_bits": 6316032
         },
         {
           "construction": [
-            0.001752667
+            0.001776708
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.556877583
+              1.473987
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.614268541
+              0.576777583
             ]
           },
           "size_in_bits": 3191040
         },
         {
           "construction": [
-            0.001613541
+            0.0016225
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.408671916
+              2.242453709
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.623168
+              0.594138125
             ]
           },
           "size_in_bits": 1628544
         },
         {
           "construction": [
-            0.001525875
+            0.001472625
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.850582166
+              3.5592005
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.671548667
+              0.631454541
+            ]
+          },
+          "size_in_bits": 847296
+        },
+        {
+          "construction": [
+            0.002901417
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.602922167
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.568078209
+            ]
+          },
+          "size_in_bits": 25066048
+        },
+        {
+          "construction": [
+            0.00198
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.800439709
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.550020375
+            ]
+          },
+          "size_in_bits": 12566016
+        },
+        {
+          "construction": [
+            0.001525542
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.021245542
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.572872875
+            ]
+          },
+          "size_in_bits": 6316032
+        },
+        {
+          "construction": [
+            0.002039875
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.4834395
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.584260417
+            ]
+          },
+          "size_in_bits": 3191040
+        },
+        {
+          "construction": [
+            0.001716
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.261695958
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.597004625
+            ]
+          },
+          "size_in_bits": 1628544
+        },
+        {
+          "construction": [
+            0.001575833
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.611106084
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.636692625
+            ]
+          },
+          "size_in_bits": 847296
+        },
+        {
+          "construction": [
+            0.002747417
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.59818675
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.561138375
+            ]
+          },
+          "size_in_bits": 25066048
+        },
+        {
+          "construction": [
+            0.001653667
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.793720375
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.546207667
+            ]
+          },
+          "size_in_bits": 12566016
+        },
+        {
+          "construction": [
+            0.001929042
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.017164916
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.565617083
+            ]
+          },
+          "size_in_bits": 6316032
+        },
+        {
+          "construction": [
+            0.001801083
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.472686958
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.575209541
+            ]
+          },
+          "size_in_bits": 3191040
+        },
+        {
+          "construction": [
+            0.001751708
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.250236875
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.59491625
+            ]
+          },
+          "size_in_bits": 1628544
+        },
+        {
+          "construction": [
+            0.001461333
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.574597834
+            ]
+          },
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.629609458
             ]
           },
           "size_in_bits": 847296
@@ -2612,114 +4016,114 @@
       "dense_sampling": [
         {
           "construction": [
-            0.004139208
+            0.004203833
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.538125459
+              0.62701975
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.912899083
+              0.943645125
             ]
           },
           "size_in_bits": 37500096
         },
         {
           "construction": [
-            0.004046542
+            0.003845416
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.555105
+              0.578462125
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.8770325
+              0.850357167
             ]
           },
           "size_in_bits": 26562624
         },
         {
           "construction": [
-            0.0035975
+            0.003701208
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.547713625
+              0.537718875
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.835984042
+              0.828292959
             ]
           },
           "size_in_bits": 21875136
         },
         {
           "construction": [
-            0.003638958
+            0.003459208
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.546811667
+              0.55716325
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.839870667
+              0.822458167
             ]
           },
           "size_in_bits": 20312640
         },
         {
           "construction": [
-            0.0034935
+            0.003655875
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.529455667
+              0.547808875
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.825596791
+              0.840418334
             ]
           },
           "size_in_bits": 20312640
         },
         {
           "construction": [
-            0.003357166
+            0.003584917
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.552069083
+              0.572540667
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.818928125
+              0.81594775
             ]
           },
           "size_in_bits": 21093952
@@ -2729,12 +4133,36 @@
       "rank_support_v": [
         {
           "construction": [
-            0.001657875
+            0.001592167
           ],
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.44210375
+              0.440243292
+            ]
+          },
+          "size_in_bits": 25000128
+        },
+        {
+          "construction": [
+            0.001589833
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.437114375
+            ]
+          },
+          "size_in_bits": 25000128
+        },
+        {
+          "construction": [
+            0.001611291
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.431905583
             ]
           },
           "size_in_bits": 25000128
@@ -2743,12 +4171,36 @@
       "rank_support_v5": [
         {
           "construction": [
-            0.001949708
+            0.00188025
           ],
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.084199917
+              1.031880833
+            ]
+          },
+          "size_in_bits": 6250176
+        },
+        {
+          "construction": [
+            0.001886
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.025022417
+            ]
+          },
+          "size_in_bits": 6250176
+        },
+        {
+          "construction": [
+            0.001862916
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.035307417
             ]
           },
           "size_in_bits": 6250176
@@ -2757,12 +4209,36 @@
       "select_support_mcl": [
         {
           "construction": [
-            0.004463875
+            0.004278084
           ],
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.333095208
+              0.313224792
+            ]
+          },
+          "size_in_bits": 23287176
+        },
+        {
+          "construction": [
+            0.004335291
+          ],
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.31335725
+            ]
+          },
+          "size_in_bits": 23287176
+        },
+        {
+          "construction": [
+            0.0042785
+          ],
+          "select": {
+            "num_queries": 5000001,
+            "total_time": [
+              0.313373542
             ]
           },
           "size_in_bits": 23287176
@@ -2771,114 +4247,114 @@
       "sparse_sampling": [
         {
           "construction": [
-            0.001013
+            0.001144916
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.934090125
+              0.92398275
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.746773542
+              0.798852083
             ]
           },
           "size_in_bits": 25000064
         },
         {
           "construction": [
-            0.001416042
+            0.001358125
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.1085465
+              1.060897167
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.707081209
+              0.710077
             ]
           },
           "size_in_bits": 12500096
         },
         {
           "construction": [
-            0.00080225
+            0.000771959
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.419794042
+              1.360911583
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.666457125
+              0.664414875
             ]
           },
           "size_in_bits": 6250112
         },
         {
           "construction": [
-            0.000530625
+            0.000568
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.628358542
+              1.621493208
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.664171875
+              0.6239485
             ]
           },
           "size_in_bits": 3125120
         },
         {
           "construction": [
-            0.000388416
+            0.000459125
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.028320542
+              2.007579
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.654497292
+              0.626750291
             ]
           },
           "size_in_bits": 1562624
         },
         {
           "construction": [
-            0.000340209
+            0.000308041
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.970996667
+              3.03133825
             ]
           },
           "select": {
             "num_queries": 5000001,
             "total_time": [
-              0.707644458
+              0.668461375
             ]
           },
           "size_in_bits": 781376
@@ -2889,114 +4365,228 @@
       "bit_vector_il": [
         {
           "construction": [
-            0.001650541
+            0.001559291
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.691420916
+              0.600858375
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.061408167
+              1.022166792
             ]
           },
           "size_in_bits": 25066048
         },
         {
           "construction": [
-            0.001551208
+            0.001580958
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.826714292
+              0.756715541
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.049466917
+              0.988538792
             ]
           },
           "size_in_bits": 12566016
         },
         {
           "construction": [
-            0.001502208
+            0.001507375
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.066940208
+              1.014178625
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.085366333
+              1.017317541
             ]
           },
           "size_in_bits": 6316032
         },
         {
           "construction": [
-            0.001744541
+            0.001877
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.543235292
+              1.471775583
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.112212292
+              1.038704958
             ]
           },
           "size_in_bits": 3191040
         },
         {
           "construction": [
-            0.001636875
+            0.001746167
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.382497083
+              2.253331792
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.14065175
+              1.087906875
             ]
           },
           "size_in_bits": 1628544
         },
         {
           "construction": [
-            0.001528166
+            0.001579708
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              3.8263155
+              3.573621666
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.215626833
+              1.133523834
+            ]
+          },
+          "size_in_bits": 847296
+        },
+        {
+          "construction": [
+            0.00159675
+          ],
+          "parameter": 4,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.594928375
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.001029333
+            ]
+          },
+          "size_in_bits": 25066048
+        },
+        {
+          "construction": [
+            0.001592917
+          ],
+          "parameter": 8,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.762713458
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              0.98086125
+            ]
+          },
+          "size_in_bits": 12566016
+        },
+        {
+          "construction": [
+            0.001545292
+          ],
+          "parameter": 16,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.010149292
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.014883292
+            ]
+          },
+          "size_in_bits": 6316032
+        },
+        {
+          "construction": [
+            0.001843417
+          ],
+          "parameter": 32,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.469094875
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.034426167
+            ]
+          },
+          "size_in_bits": 3191040
+        },
+        {
+          "construction": [
+            0.001664834
+          ],
+          "parameter": 64,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              2.245977542
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.069341708
+            ]
+          },
+          "size_in_bits": 1628544
+        },
+        {
+          "construction": [
+            0.001603417
+          ],
+          "parameter": 128,
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              3.575749833
+            ]
+          },
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              1.132510292
             ]
           },
           "size_in_bits": 847296
@@ -3005,114 +4595,114 @@
       "dense_sampling": [
         {
           "construction": [
-            0.004366375
+            0.004176417
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.548901583
+              0.608798042
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.665910292
+              1.681502042
             ]
           },
           "size_in_bits": 37500096
         },
         {
           "construction": [
-            0.003852625
+            0.003758375
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.555542208
+              0.550571375
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.580292542
+              1.533246708
             ]
           },
           "size_in_bits": 26562624
         },
         {
           "construction": [
-            0.003727584
+            0.00363975
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.537834209
+              0.648198042
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.474373708
+              1.485158084
             ]
           },
           "size_in_bits": 21875136
         },
         {
           "construction": [
-            0.0035555
+            0.003396541
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.532348708
+              0.625394416
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.501863958
+              1.4405786250000001
             ]
           },
           "size_in_bits": 20312640
         },
         {
           "construction": [
-            0.003625542
+            0.003510583
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.539576542
+              0.549071417
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.445059291
+              1.404402917
             ]
           },
           "size_in_bits": 20312640
         },
         {
           "construction": [
-            0.003433541
+            0.003368959
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.549959959
+              0.595260583
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.494637458
+              1.4079390840000001
             ]
           },
           "size_in_bits": 21093952
@@ -3122,12 +4712,24 @@
       "rank_support_v": [
         {
           "construction": [
-            0.001651125
+            0.001498291
           ],
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.440673041
+              0.435055125
+            ]
+          },
+          "size_in_bits": 25000128
+        },
+        {
+          "construction": [
+            0.001518375
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              0.430055042
             ]
           },
           "size_in_bits": 25000128
@@ -3136,12 +4738,24 @@
       "rank_support_v5": [
         {
           "construction": [
-            0.001877291
+            0.001844417
           ],
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.083846334
+              1.033418875
+            ]
+          },
+          "size_in_bits": 6250176
+        },
+        {
+          "construction": [
+            0.00189175
+          ],
+          "rank": {
+            "num_queries": 100000001,
+            "total_time": [
+              1.033024959
             ]
           },
           "size_in_bits": 6250176
@@ -3150,12 +4764,24 @@
       "select_support_mcl": [
         {
           "construction": [
-            0.014484417
+            0.013757375
           ],
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              0.442034417
+              0.422598875
+            ]
+          },
+          "size_in_bits": 23443528
+        },
+        {
+          "construction": [
+            0.013762958
+          ],
+          "select": {
+            "num_queries": 9000000,
+            "total_time": [
+              0.42114425
             ]
           },
           "size_in_bits": 23443528
@@ -3164,114 +4790,114 @@
       "sparse_sampling": [
         {
           "construction": [
-            0.001024792
+            0.001138375
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              0.924347625
+              0.88074075
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.3789268749999999
+              1.347580416
             ]
           },
           "size_in_bits": 25000064
         },
         {
           "construction": [
-            0.001488875
+            0.0015225
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.113367958
+              1.0833615
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.291358041
+              1.2195467500000001
             ]
           },
           "size_in_bits": 12500096
         },
         {
           "construction": [
-            0.000869375
+            0.000807334
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.415453334
+              1.593826542
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.209559916
+              1.142552666
             ]
           },
           "size_in_bits": 6250112
         },
         {
           "construction": [
-            0.0005985
+            0.000555916
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              1.6449382080000001
+              1.560664875
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.159149833
+              1.083873833
             ]
           },
           "size_in_bits": 3125120
         },
         {
           "construction": [
-            0.000406834
+            0.000424458
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.032471958
+              1.989077333
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.176891916
+              1.0953055
             ]
           },
           "size_in_bits": 1562624
         },
         {
           "construction": [
-            0.000279458
+            0.000299291
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 100000001,
             "total_time": [
-              2.952022375
+              2.785412625
             ]
           },
           "select": {
             "num_queries": 9000000,
             "total_time": [
-              1.259024208
+              1.2745031660000001
             ]
           },
           "size_in_bits": 781376
@@ -3286,23 +4912,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              7.450871459
+              8.695909709
             ]
           },
           "construction": [
-            19.020101375
+            18.065452334
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.474991833
+              3.793292875
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              31.35996375
+              31.122455083
             ]
           },
           "size_in_bits": 4194257120
@@ -3311,23 +4937,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              7.580921042
+              8.621117125
             ]
           },
           "construction": [
-            19.032297167
+            17.985015667
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.672897417
+              3.9738595
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              29.908067958
+              29.739712333
             ]
           },
           "size_in_bits": 3774838048
@@ -3336,23 +4962,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              8.339301334
+              9.011316875
             ]
           },
           "construction": [
-            18.936633792
+            18.047125458
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.914667667
+              4.253665958
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              30.790298542
+              30.529140042
             ]
           },
           "size_in_bits": 3565128480
@@ -3361,23 +4987,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              10.826543167
+              12.701561375
             ]
           },
           "construction": [
-            19.019155375
+            17.9488225
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              4.488848625
+              4.831356125
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              35.110727709
+              32.179940833
             ]
           },
           "size_in_bits": 3460273696
@@ -3386,23 +5012,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              14.154414625
+              13.37401775
             ]
           },
           "construction": [
-            19.0126905
+            18.479439042
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              6.651745708
+              6.871918458
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              37.12373725
+              35.57876275
             ]
           },
           "size_in_bits": 3407846304
@@ -3411,23 +5037,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              21.669473209
+              20.492559125
             ]
           },
           "construction": [
-            19.053630791
+            17.977170541
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              9.861183042
+              9.421904167
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              43.319604083
+              40.800962042
             ]
           },
           "size_in_bits": 3381632608
@@ -3438,23 +5064,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              2.70606625
+              2.694013292
             ]
           },
           "construction": [
-            11.614442459
+            11.005596708
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              2.290415791
+              2.263270541
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              10.494753042
+              10.142594791
             ]
           },
           "size_in_bits": 2867403008
@@ -3463,23 +5089,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              2.475720458
+              2.294610375
             ]
           },
           "construction": [
-            11.609908875
+            11.046742041
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              2.320498375
+              2.190117166
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              9.632661292
+              9.27719075
             ]
           },
           "size_in_bits": 2639340352
@@ -3488,23 +5114,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              2.319399459
+              2.323054708
             ]
           },
           "construction": [
-            11.658378166
+            11.023822084
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              2.20925625
+              2.349922458
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              8.834729124999999
+              8.917381375
             ]
           },
           "size_in_bits": 2541599552
@@ -3513,23 +5139,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              2.622172125
+              2.3209962920000002
             ]
           },
           "construction": [
-            11.628987833
+            10.95609625
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              2.229237833
+              2.3813375
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              8.839806334
+              8.381063667
             ]
           },
           "size_in_bits": 2509019584
@@ -3538,23 +5164,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              2.353972459
+              2.2597106670000002
             ]
           },
           "construction": [
-            11.644791417
+            10.962665167
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              2.428412834
+              2.312564417
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              8.527111625
+              8.078533833
             ]
           },
           "size_in_bits": 2509019712
@@ -3563,23 +5189,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              2.4484992500000002
+              2.311437542
             ]
           },
           "construction": [
-            11.641766917
+            10.9992945
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              2.514137541
+              2.332709416
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              8.640367541
+              8.1270605
             ]
           },
           "size_in_bits": 2525310336
@@ -3591,19 +5217,19 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              7.670761125
+              9.174361208
             ]
           },
           "construction": [
-            20.954597125
+            18.124580042
           ],
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.609578709
+              3.892988417
             ]
           },
-          "size_in_bits": 4974448008
+          "size_in_bits": 4194191264
         }
       ],
       "rank_support_v5": [
@@ -3611,19 +5237,19 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              7.703999334
+              8.410537583
             ]
           },
           "construction": [
-            20.946613209
+            18.222228458
           ],
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.822101333
+              4.292157292
             ]
           },
-          "size_in_bits": 4345319304
+          "size_in_bits": 3565062560
         }
       ],
       "rrr_faex_63": [
@@ -3631,23 +5257,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              12.969793917
+              11.993084958
             ]
           },
           "construction": [
-            14.731194708
+            14.01290875
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              4.290149667
+              4.328870375
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              15.16039275
+              14.551716666
             ]
           },
           "size_in_bits": 1417424896
@@ -3656,23 +5282,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              13.270575917
+              12.487451459
             ]
           },
           "construction": [
-            14.699010542
+            13.8771745
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              4.463311167
+              4.134373542
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              14.211488
+              13.528321333
             ]
           },
           "size_in_bits": 1246039104
@@ -3681,23 +5307,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              14.002302667
+              13.080872375
             ]
           },
           "construction": [
-            14.589198709
+            13.966045
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              4.7338155
+              4.554065625
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              13.683205749999999
+              13.230292375
             ]
           },
           "size_in_bits": 1160346624
@@ -3706,23 +5332,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              14.935555542
+              13.818452959
             ]
           },
           "construction": [
-            14.654809792
+            13.877145084
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              5.430415875
+              5.082373875
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              13.792389541
+              12.894482583
             ]
           },
           "size_in_bits": 1117499904
@@ -3731,23 +5357,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              17.275565167
+              15.938634583
             ]
           },
           "construction": [
-            14.611746958
+            13.891498334
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              6.431238166
+              6.007254125
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              13.734319750000001
+              12.868654333
             ]
           },
           "size_in_bits": 1096076928
@@ -3756,23 +5382,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              21.930140125
+              20.376282208
             ]
           },
           "construction": [
-            14.668947875
+            13.946448583
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              8.389437166
+              7.77790225
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              14.317267084
+              13.252432958
             ]
           },
           "size_in_bits": 1085364928
@@ -3783,23 +5409,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              35.627133833
+              33.172537875
             ]
           },
           "construction": [
-            21.938984416
+            20.737697917
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              7.340640458
+              6.876010958
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              80.790081666
+              77.356329333
             ]
           },
           "size_in_bits": 2000531384
@@ -3808,23 +5434,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              36.107837792
+              32.400475125
             ]
           },
           "construction": [
-            21.859881417
+            20.540030542
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              7.202555833
+              6.663283833
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              77.82013475
+              74.376966792
             ]
           },
           "size_in_bits": 1594427128
@@ -3833,23 +5459,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              37.397769167
+              34.593176416
             ]
           },
           "construction": [
-            21.722029166
+            20.550841584
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              7.75945
+              7.141071625
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              76.927819958
+              71.780496
             ]
           },
           "size_in_bits": 1391375032
@@ -3858,23 +5484,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              41.537686666
+              38.046970292
             ]
           },
           "construction": [
-            21.801263583
+            20.564721833
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              9.0452145
+              8.397279209
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              80.692649625
+              75.041427333
             ]
           },
           "size_in_bits": 1289849016
@@ -3883,23 +5509,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              51.438684708
+              47.709030791
             ]
           },
           "construction": [
-            21.70700775
+            20.464914
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              12.413056375
+              11.289555959
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              87.504470375
+              81.362672875
             ]
           },
           "size_in_bits": 1239085944
@@ -3908,23 +5534,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              70.510543334
+              65.048567625
             ]
           },
           "construction": [
-            21.774855125
+            20.47042725
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              17.115476375
+              15.661830042
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              103.7588965
+              97.636982708
             ]
           },
           "size_in_bits": 1213704504
@@ -3933,12 +5559,12 @@
       "select_support_mcl": [
         {
           "construction": [
-            21.01741575
+            19.736626625
           ],
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              13.642054792
+              13.041966166
             ]
           },
           "size_in_bits": 4974448008
@@ -3949,23 +5575,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              3.240935125
+              3.031394167
             ]
           },
           "construction": [
-            11.583551625
+            10.880857542
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              2.7871546670000003
+              2.663776958
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              8.546288083
+              8.217085209
             ]
           },
           "size_in_bits": 2606702912
@@ -3974,23 +5600,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              3.8503672079999998
+              2.921390291
             ]
           },
           "construction": [
-            11.5686525
+            10.922355208
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.203703084
+              2.641709708
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              8.232452667
+              7.131646833
             ]
           },
           "size_in_bits": 2346059520
@@ -3999,23 +5625,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              3.470412959
+              3.289396541
             ]
           },
           "construction": [
-            11.540139083
+            10.952518041
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.03137125
+              3.071456625
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              6.807524625
+              6.732299167
             ]
           },
           "size_in_bits": 2215737920
@@ -4024,23 +5650,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              4.014081708
+              3.444050292
             ]
           },
           "construction": [
-            11.555188417
+            10.931534125
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.540226333
+              3.473257125
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              6.909011208
+              6.543634125
             ]
           },
           "size_in_bits": 2150577280
@@ -4049,23 +5675,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              4.191142333
+              3.940204667
             ]
           },
           "construction": [
-            11.564579583
+            10.891767208
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              3.850439959
+              3.667318
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              6.776740333
+              6.351180083
             ]
           },
           "size_in_bits": 2117997376
@@ -4074,23 +5700,23 @@
           "access": {
             "num_queries": 10485477,
             "total_time": [
-              5.024547292
+              4.5696422089999995
             ]
           },
           "construction": [
-            11.579527917
+            11.044238459
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20970955,
             "total_time": [
-              4.536199041
+              4.34331575
             ]
           },
           "select": {
             "num_queries": 10485477,
             "total_time": [
-              7.10986025
+              6.794966917
             ]
           },
           "size_in_bits": 2101707136
@@ -4103,23 +5729,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.621509542
+              1.459383083
             ]
           },
           "construction": [
-            12.96034925
+            12.416980708
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              4.695032125
+              4.543814292
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              44.366862709
+              44.079641208
             ]
           },
           "size_in_bits": 1835074272
@@ -4128,23 +5754,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.7411475
+              1.553963917
             ]
           },
           "construction": [
-            12.948468083
+            12.301754125
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              5.157992667
+              4.977826958
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              43.847950417
+              43.422241917
             ]
           },
           "size_in_bits": 1651573472
@@ -4153,23 +5779,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.902186
+              1.741584583
             ]
           },
           "construction": [
-            12.964117458
+            12.287121125
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              5.952910459
+              5.667393416
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              44.019260208
+              43.775285125
             ]
           },
           "size_in_bits": 1559823072
@@ -4178,23 +5804,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              2.548941834
+              2.295103625
             ]
           },
           "construction": [
-            13.01373925
+            12.264849208
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              7.029114916
+              6.802824375
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              44.56118925
+              44.851381666
             ]
           },
           "size_in_bits": 1513947872
@@ -4203,23 +5829,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              3.336675958
+              3.280165083
             ]
           },
           "construction": [
-            12.954064792
+            12.325862875
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              8.847643375
+              8.351115958
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              44.0624265
+              43.312352375
             ]
           },
           "size_in_bits": 1491010272
@@ -4228,23 +5854,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              5.745942834
+              5.476137834
             ]
           },
           "construction": [
-            13.012995292
+            12.409794667
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              13.689082541
+              13.839944
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              44.148845
+              45.441048833
             ]
           },
           "size_in_bits": 1479541472
@@ -4255,23 +5881,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              0.635786917
+              0.554735625
             ]
           },
           "construction": [
-            6.619841625
+            6.238858
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              1.735589417
+              1.5417062499999998
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              28.361237916
+              25.664528542
             ]
           },
           "size_in_bits": 1375118368
@@ -4280,23 +5906,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              0.672971334
+              0.60694275
             ]
           },
           "construction": [
-            6.641628542
+            6.231400083
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              1.66302
+              1.48626525
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              23.53860775
+              21.02792025
             ]
           },
           "size_in_bits": 1265734496
@@ -4305,23 +5931,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              0.655454
+              0.595312708
             ]
           },
           "construction": [
-            6.629594041
+            6.246342791
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              1.481268583
+              1.386012666
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              18.439274667
+              18.082297209
             ]
           },
           "size_in_bits": 1218855584
@@ -4330,23 +5956,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              0.6643565
+              0.617989708
             ]
           },
           "construction": [
-            6.635325708
+            6.239225083
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              1.469317458
+              1.43689775
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              17.149926041
+              16.710063083
             ]
           },
           "size_in_bits": 1203229344
@@ -4355,23 +5981,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              0.649120792
+              0.599060292
             ]
           },
           "construction": [
-            6.63967
+            6.303135625
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              1.460499
+              1.366263333
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              16.4541525
+              16.116149084
             ]
           },
           "size_in_bits": 1203229216
@@ -4380,23 +6006,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              0.671536041
+              0.637136
             ]
           },
           "construction": [
-            6.62661
+            6.224839292
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              1.537178458
+              1.5242781669999999
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              16.588882291
+              16.309675417
             ]
           },
           "size_in_bits": 1211042464
@@ -4408,19 +6034,19 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.277221791
+              1.328643917
             ]
           },
           "construction": [
-            13.560558875
+            12.478168375
           ],
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              4.516738333
+              4.526563
             ]
           },
-          "size_in_bits": 2193511672
+          "size_in_bits": 1835008416
         }
       ],
       "rank_support_v5": [
@@ -4428,19 +6054,19 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              2.017202584
+              1.849901375
             ]
           },
           "construction": [
-            13.58103825
+            12.438340167
           ],
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              5.659043042
+              5.412253541
             ]
           },
-          "size_in_bits": 1918260472
+          "size_in_bits": 1559757216
         }
       ],
       "rrr_faex_63": [
@@ -4448,23 +6074,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              8.997382625
+              8.393165958
             ]
           },
           "construction": [
-            9.225751583
+            8.849313041
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              11.235144958
+              10.14611875
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              31.394910458
+              28.674620916
             ]
           },
           "size_in_bits": 1104280480
@@ -4473,23 +6099,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              9.26477425
+              8.646910792
             ]
           },
           "construction": [
-            9.172749291
+            8.793321209
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              10.799067667
+              9.975217292
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              25.653004875
+              25.213027625
             ]
           },
           "size_in_bits": 1003456736
@@ -4498,23 +6124,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              9.608823167
+              8.978161667
             ]
           },
           "construction": [
-            9.172259292
+            8.779320917
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              10.901342167
+              10.197126083
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              23.53720375
+              22.775501666
             ]
           },
           "size_in_bits": 953045216
@@ -4523,23 +6149,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              10.06812
+              9.387827083
             ]
           },
           "construction": [
-            9.175962917
+            8.776352
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              11.404656458
+              10.626373458
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              22.219479458
+              21.392713916
             ]
           },
           "size_in_bits": 927839392
@@ -4548,23 +6174,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              11.336239875
+              10.593236917
             ]
           },
           "construction": [
-            9.161364541
+            8.770920042
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              12.688741
+              11.873098292
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              21.989196583000002
+              21.131416959
             ]
           },
           "size_in_bits": 915236256
@@ -4573,23 +6199,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              13.893538583
+              12.9790055
             ]
           },
           "construction": [
-            9.166097375
+            8.761678041
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              15.504255042
+              14.477664666999999
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              22.50189525
+              21.491731292
             ]
           },
           "size_in_bits": 908934816
@@ -4600,23 +6226,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              23.274885375
+              21.775956209
             ]
           },
           "construction": [
-            15.385001
+            14.717687250000001
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              31.157484167
+              30.512312625
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              54.096758417
+              52.486179834
             ]
           },
           "size_in_bits": 1299730936
@@ -4625,23 +6251,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              24.132966542
+              22.146289708
             ]
           },
           "construction": [
-            15.347513083
+            14.61360025
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              31.34276575
+              29.755439834
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              44.909858125
+              45.102482333
             ]
           },
           "size_in_bits": 1122055544
@@ -4650,23 +6276,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              24.875324375
+              23.717089666
             ]
           },
           "construction": [
-            15.320591958
+            14.617496042
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              32.313202083
+              30.856122917
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              40.695382291
+              41.098343334
             ]
           },
           "size_in_bits": 1033217784
@@ -4675,23 +6301,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              27.163287917
+              25.069587417
             ]
           },
           "construction": [
-            15.358246042
+            14.569459375
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              35.731772875
+              33.881746958
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              39.590004625
+              38.646142208
             ]
           },
           "size_in_bits": 988798904
@@ -4700,23 +6326,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              31.16459925
+              29.339265
             ]
           },
           "construction": [
-            15.34261425
+            14.605199334
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              42.573159583
+              40.448570958
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              41.556060042
+              40.418404625
             ]
           },
           "size_in_bits": 966589496
@@ -4725,23 +6351,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              40.648488
+              37.681792667
             ]
           },
           "construction": [
-            15.325685167
+            14.607610041
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              59.089367917
+              53.900675542
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              47.860690709000004
+              46.019662334
             ]
           },
           "size_in_bits": 955484856
@@ -4750,12 +6376,12 @@
       "select_support_mcl": [
         {
           "construction": [
-            13.657052625
+            12.955277667
           ],
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              23.567798624999998
+              24.383717667
             ]
           },
           "size_in_bits": 2193511672
@@ -4766,23 +6392,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              0.981399209
+              0.903700917
             ]
           },
           "construction": [
-            6.599450375
+            6.19101275
           ],
           "parameter": 4,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              2.582003375
+              2.3830094170000002
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              22.182722083
+              19.923930208
             ]
           },
           "size_in_bits": 1250107360
@@ -4791,23 +6417,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.073831417
+              0.999373792
             ]
           },
           "construction": [
-            6.624658541
+            6.197961042
           ],
           "parameter": 8,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              2.63493075
+              2.389697
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              15.909094333
+              15.097617958
             ]
           },
           "size_in_bits": 1125097184
@@ -4816,23 +6442,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.286730041
+              1.184351917
             ]
           },
           "construction": [
-            6.590806833
+            6.197621167
           ],
           "parameter": 16,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              2.866949333
+              2.738344375
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              13.407491917
+              12.718533708
             ]
           },
           "size_in_bits": 1062592032
@@ -4841,23 +6467,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.401189333
+              1.305824209
             ]
           },
           "construction": [
-            6.598717959
+            6.192607125
           ],
           "parameter": 32,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              3.125307541
+              2.8530504580000002
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              13.530578416
+              12.992241917
             ]
           },
           "size_in_bits": 1031339424
@@ -4866,23 +6492,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.5269616670000001
+              1.424428583
             ]
           },
           "construction": [
-            6.595896708
+            6.216117292
           ],
           "parameter": 64,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              3.398507459
+              3.104295375
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              13.467715875
+              13.084262417
             ]
           },
           "size_in_bits": 1015713056
@@ -4891,23 +6517,23 @@
           "access": {
             "num_queries": 10485760,
             "total_time": [
-              1.7697813340000002
+              1.665019875
             ]
           },
           "construction": [
-            6.58485125
+            6.206930375
           ],
           "parameter": 128,
           "rank": {
             "num_queries": 20971521,
             "total_time": [
-              4.179621625
+              3.914473959
             ]
           },
           "select": {
             "num_queries": 10485760,
             "total_time": [
-              14.097585209
+              13.6073915
             ]
           },
           "size_in_bits": 1007900064
