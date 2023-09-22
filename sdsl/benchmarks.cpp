@@ -750,7 +750,9 @@ ParametrizableRankSelectAccessBenchmark wt_rrr_vector_benchmark(
 }
 
 WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
-  wt_int<bit_vector, rank_support_v<>> wt;
+  wt_int<bit_vector, rank_support_v<>, select_support_scan<1>,
+         select_support_scan<0>>
+      wt;
   construct(wt, dataset_name, 4);
   set<uint64_t> alphabet_set;
   for (auto i = 0; i < wt.size(); ++i) {
@@ -796,7 +798,9 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
   int num_access_queries = random_access_queries.size();
 
   NonParametrizableRankAccessBenchmark concrete_rank_support_v;
-  wt_int<bit_vector, rank_support_v<>> wt_rank_support_v;
+  wt_int<bit_vector, rank_support_v<>, select_support_scan<1>,
+         select_support_scan<0>>
+      wt_rank_support_v;
   construct(wt_rank_support_v, dataset_name, 4);
   concrete_rank_support_v.size_in_bits = size_in_bytes(wt_rank_support_v) * 8;
   concrete_rank_support_v.rank.num_queries = num_rank_queries;
@@ -806,7 +810,9 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
   for (int r = 0; r < NUM_REPEATS; r++) {
     cout << "Starting rank_support_v construction" << endl;
     auto start_construction = high_resolution_clock::now();
-    wt_int<bit_vector, rank_support_v<>> wt_rank_support_v;
+    wt_int<bit_vector, rank_support_v<>, select_support_scan<1>,
+           select_support_scan<0>>
+        wt_rank_support_v;
     construct(wt_rank_support_v, dataset_name, 4);
     auto end_construction = high_resolution_clock::now();
     auto elapsed_construction =
@@ -842,7 +848,9 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
   wt_benchmark.rank_support_v.push_back(concrete_rank_support_v);
 
   NonParametrizableRankAccessBenchmark concrete_rank_support_v5;
-  wt_int<bit_vector, rank_support_v5<>> wt_rank_support_v5;
+  wt_int<bit_vector, rank_support_v5<>, select_support_scan<1>,
+         select_support_scan<0>>
+      wt_rank_support_v5;
   construct(wt_rank_support_v5, dataset_name, 4);
   concrete_rank_support_v5.size_in_bits = size_in_bytes(wt_rank_support_v5) * 8;
   concrete_rank_support_v5.rank.num_queries = num_rank_queries;
@@ -852,7 +860,9 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
   for (int r = 0; r < NUM_REPEATS; r++) {
     cout << "Starting rank_support_v5 construction" << endl;
     auto start_construction = high_resolution_clock::now();
-    wt_int<bit_vector, rank_support_v5<>> wt_rank_support_v5;
+    wt_int<bit_vector, rank_support_v5<>, select_support_scan<1>,
+           select_support_scan<0>>
+        wt_rank_support_v5;
     construct(wt_rank_support_v5, dataset_name, 4);
     auto end_construction = high_resolution_clock::now();
     auto elapsed_construction =
@@ -919,7 +929,7 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
       num_access_queries));
 
   NonParametrizableSelectBenchmark concrete_select_support_mcl;
-  wt_int<bit_vector, bit_vector::rank_1_type, select_support_mcl<1>,
+  wt_int<bit_vector, rank_support_scan<>, select_support_mcl<1>,
          select_support_mcl<0>>
       wt_select_support_mcl;
 
@@ -934,7 +944,7 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
   for (int r = 0; r < NUM_REPEATS; r++) {
     cout << "Starting select_support_mcl construction" << endl;
     auto start_construction = high_resolution_clock::now();
-    wt_int<bit_vector, bit_vector::rank_1_type, select_support_mcl<1>,
+    wt_int<bit_vector, rank_support_scan<>, select_support_mcl<1>,
            select_support_mcl<0>>
         wt_select_support_mcl;
     construct(wt_select_support_mcl, dataset_name, 4);
