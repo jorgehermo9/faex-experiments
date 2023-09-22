@@ -929,7 +929,7 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
       num_access_queries));
 
   NonParametrizableSelectBenchmark concrete_select_support_mcl;
-  wt_int<bit_vector, rank_support_scan<>, select_support_mcl<1>,
+  wt_int<bit_vector, bit_vector::rank_1_type, select_support_mcl<1>,
          select_support_mcl<0>>
       wt_select_support_mcl;
 
@@ -944,7 +944,7 @@ WtBenchmark wt_benchmark(string dataset_name, WtBenchmark wt_benchmark) {
   for (int r = 0; r < NUM_REPEATS; r++) {
     cout << "Starting select_support_mcl construction" << endl;
     auto start_construction = high_resolution_clock::now();
-    wt_int<bit_vector, rank_support_scan<>, select_support_mcl<1>,
+    wt_int<bit_vector, bit_vector::rank_1_type, select_support_mcl<1>,
            select_support_mcl<0>>
         wt_select_support_mcl;
     construct(wt_select_support_mcl, dataset_name, 4);
