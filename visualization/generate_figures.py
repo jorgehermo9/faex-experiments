@@ -166,7 +166,7 @@ def plot_sampling_benchmark(sampling_benchmark):
         )
         ax.set_title(f"{dataset_name} de densidad")
     fig.supxlabel("sobrecoste en espacio (\% de la secuencia original)")
-    fig.supylabel("tiempo medio de rank ($\eta s$)")
+    fig.supylabel("tiempo medio de rank (ns)")
     handles, labels = ax.get_legend_handles_labels()
     fig.legend(
         handles,
@@ -251,7 +251,7 @@ def plot_sampling_benchmark(sampling_benchmark):
         shadow=True,
     )
     fig.supxlabel("sobrecoste en espacio (\% de la secuencia original)")
-    fig.supylabel("tiempo medio de select ($\eta s$)")
+    fig.supylabel("tiempo medio de select (ns)")
 
     # show plot
     # plt.show()
@@ -357,7 +357,7 @@ def plot_compressed_benchmark(compressed_benchmark):
         shadow=True,
     )
     fig.supxlabel("espacio ocupado (\% de la secuencia original)")
-    fig.supylabel("tiempo medio de rank ($\eta s$)")
+    fig.supylabel("tiempo medio de rank (ns)")
 
     # show plot
     # plt.show()
@@ -445,7 +445,7 @@ def plot_compressed_benchmark(compressed_benchmark):
         ax.set_title(f"{dataset_name} de densidad")
 
     fig.supxlabel("espacio ocupado (\% de la secuencia original)")
-    fig.supylabel("tiempo medio de select ($\eta s$)")
+    fig.supylabel("tiempo medio de select (ns)")
     handles, labels = ax.get_legend_handles_labels()
     fig.legend(
         handles,
@@ -601,7 +601,7 @@ def plot_wt_benchmark(wt_benchmark):
 
             ax.set_xlim(left=minx - 5)
 
-            ax.set_ylabel(f"tiempo medio de {query} ($\eta s$)")
+            ax.set_ylabel(f"tiempo medio de {query} (ns)")
             ax.set_yscale("log")
 
         handles, labels = ax.get_legend_handles_labels()
